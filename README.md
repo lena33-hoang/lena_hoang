@@ -6,7 +6,7 @@
 ---
 
 ##  Experience:
-* **Mechanical Engineering Intern at HDR (Pennington, NJ): Assist in Designing ductwork, placing diffusers, and conducting thermal air-load calculations for the USCGA STEM West Building.
+Mechanical Engineering Intern at HDR (Pennington, NJ): Assist in Designing ductwork, placing diffusers, and conducting thermal air-load calculations for the USCGA STEM West Building.
 
 ##  Technical Competencies
 * **CAD & Product Design:** SolidWorks, CATIA V5, GD&T, Technical Drawings (ANSI/ISO)
