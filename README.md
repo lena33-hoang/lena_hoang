@@ -308,30 +308,7 @@ Browse my collection of engineering, manufacturing, software, CAD, leadership, a
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="## CONTACT DETAILS
-
-*Let’s connect and see how we can make a difference together!*
-<table>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td>(234) 816-763-7212</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>PH, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/le-na-hoang/">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/le-na-hoang/">
     </tr>
   </tbody>
 </table>
