@@ -1,164 +1,303 @@
-<!-- ========================================= -->
-<!-- SECTION 1 : ABOUT ME -->
-<!-- ========================================= -->
 
-# ABOUT ME
+<!-- Le Na Hoang Engineering Portfolio -->
+<!-- ========================================================= -->
 
-Hello! I'm **Le Na Hoang**, a junior in Mechanical Engineering student at Embry-Riddle Aeronautical University with a passion for mechanical design, robotics, sustainable engineering, and innovative product development.
-My experiences range from mechanical system design and CAD modeling to engineering research and manufacturing, allowing me to approach problems with both creativity and analytical thinking.
+
+---
+
+## ABOUT ME
+
+Hello! I'm **Le Na Hoang**, a junior pursuing a Bachelor of Science in **Mechanical Engineering** at **Embry-Riddle Aeronautical University** with a concentration in the Robotics Track. My passion is designing practical engineering solutions that bridge mechanical design, manufacturing, robotics, and sustainable engineering
+
 
 ---
 
 # WHAT I DO
 
-*I enjoy transforming engineering ideas into practical solutions through design, research, and hands-on prototyping.*
+*I enjoy solving engineering problems through design, analysis, prototyping, and research.*
 
 ### ⚙️ Mechanical Design
 
-I design mechanical components and assemblies using industry-standard CAD software while considering functionality, manufacturability, and performance. My projects include product redesign, manufacturing fixtures, and electromechanical systems.
+Designing mechanical components and assemblies using SolidWorks, CATIA, and AutoCAD while emphasizing manufacturability, reliability, and engineering best practices.
+
+### 🤖 Robotics & Prototyping
+
+Building electromechanical systems through CAD, sensors, actuators, Arduino programming, and prototype fabrication.
+
+### 🏗 Building Systems Engineering
+
+Supporting professional engineering projects involving HVAC systems, engineering documentation, CAD drafting, and multidisciplinary coordination.
+
+### 🔬 Engineering Research
+
+Conducting undergraduate aerospace research involving computational analysis, simulations, technical documentation, and collaborative problem solving.
+
+### 💡 Product Development
+
+Applying the engineering design process from concept generation to prototype development and iterative design improvements.
 
 ---
 
-### 🏢 Engineering Experience
+# PROFESSIONAL EXPERIENCE
 
-Through my Mechanical Engineering internship at HDR Engineering, I gained experience working on real-world building systems, engineering documentation, CAD modeling, and multidisciplinary engineering projects within the AEC industry.
+## Mechanical Engineering Intern
+### HDR Engineering & Architecture
+
+![image](images/hdr.jpg)
+
+Working alongside licensed engineers on mechanical building system design projects while gaining real-world consulting experience.
+
+**Responsibilities**
+
+- Mechanical system design support
+- Engineering calculations
+- CAD drafting
+- Engineering documentation
+- Specification review
+- Multidisciplinary coordination
+
+➡️ **Read More**
 
 ---
 
-### 🔬 Undergraduate Research
+## Undergraduate Research Assistant
+### Embry-Riddle Aeronautical University
 
-As an undergraduate researcher, I contribute to engineering research involving spacecraft dynamics and the Yarkovsky Effect while collaborating with faculty and interdisciplinary student teams to solve complex engineering problems.
+![image](images/research.jpg)
+
+Supporting faculty research involving aerospace engineering, computational analysis, engineering simulations, and technical reporting.
+
+➡️ **Read More**
 
 ---
 
-### 🤖 Engineering Projects & Prototyping
+## Library Technician
+### Hunt Library
 
-I enjoy building engineering projects that combine mechanical design, electronics, and manufacturing. From animatronics to product redesigns, I enjoy turning concepts into functional prototypes.
+![image](images/library.jpg)
+
+Providing customer service while supporting library operations, improving communication, organization, and teamwork skills.
+
+➡️ **Read More**
 
 ---
-
-<!-- ========================================= -->
-<!-- SECTION 2 : ENGINEERING PROJECTS -->
-<!-- ========================================= -->
 
 # ENGINEERING PROJECTS
 
-*A collection of engineering projects that showcase my experience in mechanical design, CAD modeling, manufacturing, robotics, and product development.*
+*A collection of engineering projects demonstrating mechanical design, CAD modeling, prototyping, manufacturing, and engineering analysis.*
 
 ---
 
-## Halloween Animatronic Mummy
+## 🎃 Halloween Animatronic Mummy
 
-![image](images/halloween-animatronic-cover.jpg)
+![image](images/mummy.jpg)
 
-Designed and built an automated Halloween mummy animatronic capable of sitting upright and rotating its head when visitors approached. The project integrated mechanical design, Arduino programming, servo motors, a geared DC motor, and ultrasonic sensing into a functional interactive system.
+Designed and built an interactive animatronic capable of automatically sitting upright and rotating its head using Arduino, ultrasonic sensors, servo motors, and custom mechanical mechanisms.
 
-**Skills**
+### Skills Demonstrated
+
 - Mechanical Design
-- SolidWorks
-- Arduino
-- Motion Mechanisms
-- Prototype Development
-- Electronics Integration
+- Arduino Programming
+- Motion Control
+- Sensors
+- Servo Motors
+- Prototype Fabrication
+- Team Collaboration
 
-**Project Includes**
+### Technologies
 
-- CAD Models
-- Circuit Design
-- Mechanical Assembly
-- Testing Process
-- Final Demonstration
+SolidWorks • Arduino • Ultrasonic Sensor • Servo Motor • Geared DC Motor
 
-[View Project →](projects/halloween-animatronic.html)
+📄 Engineering Report
+
+📷 CAD Gallery
+
+🎥 Demonstration Video
+
+➡️ **Read More**
 
 ---
 
-## Upgraded Desk Lamp
+## 💡 Upgraded Desk Lamp
 
-![image](images/desk-lamp-cover.jpg)
+![image](images/desklamp.jpg)
 
-Redesigned a traditional desk lamp using CATIA to improve ergonomics, adjustability, manufacturability, and overall aesthetics while maintaining structural stability. The project focused on iterative design and engineering optimization.
+Redesigned a traditional desk lamp to improve adjustability, structural stability, manufacturability, and aesthetics using CATIA.
 
-**Skills**
+### Skills Demonstrated
 
-- CATIA
 - Product Design
-- CAD Modeling
+- Parametric Modeling
+- Assembly Design
 - Engineering Drawings
 - Design Optimization
 
-**Project Includes**
+### Technologies
 
-- CAD Renderings
-- Assembly Models
-- Exploded View
-- Engineering Drawings
-- Design Improvements
+CATIA • Product Design • Mechanical Design
 
-[View Project →](projects/upgraded-desk-lamp.html)
+📄 Engineering Report
+
+📷 CAD Gallery
+
+➡️ **Read More**
 
 ---
 
-## Mandrel Centering Guide
+## ⚙️ Mandrel Centering Guide
 
-![image](images/mandrel-cover.jpg)
+![image](images/mandrel.jpg)
 
-Designed a Mandrel Centering Guide to improve manufacturing precision by ensuring consistent alignment during production while simplifying assembly and reducing positioning errors.
+Designed a manufacturing fixture that improves alignment accuracy, simplifies assembly procedures, and reduces positioning errors.
 
-**Skills**
+### Skills Demonstrated
 
+- Precision Design
+- Manufacturing Design
+- CAD Modeling
+- DFM
+- Mechanical Assembly
+
+### Technologies
+
+CATIA • Manufacturing Design
+
+📄 Engineering Report
+
+📷 CAD Gallery
+
+➡️ **Read More**
+
+---
+
+## 🌿 ThermaWeave
+
+![image](images/thermaweave.jpg)
+
+Designed an adaptive modular façade system inspired by woven textiles to improve passive cooling, reduce building energy consumption, and simplify retrofitting of existing buildings.
+
+### Skills Demonstrated
+
+- Sustainable Design
+- CAD Modeling
+- Product Development
+- Energy Efficiency
+- Building Systems
+
+### Technologies
+
+SolidWorks • CAD • Sustainable Engineering
+
+📄 Project Report
+
+📷 CAD Renderings
+
+➡️ **Read More**
+
+---
+
+# TECHNICAL SKILLS
+
+## CAD & Engineering Design
+
+- SolidWorks
 - CATIA
+- AutoCAD
+
+## Programming
+
+- MATLAB
+- Python
+- Arduino
+
+## Engineering
+
 - Mechanical Design
-- Manufacturing
-- Design for Assembly
-- Tolerance Analysis
-
-**Project Includes**
-
-- CAD Model
-- Assembly Design
+- Product Development
+- GD&T
 - Engineering Drawings
-- Manufacturing Considerations
+- DFM
+- Mechanical Assembly
+- Prototyping
 
-[View Project →](projects/mandrel-centering-guide.html)
+## Research
+
+- Engineering Documentation
+- Technical Writing
+- Engineering Analysis
+- Problem Solving
+- Technical Communication
 
 ---
+
+# HONORS & AWARDS
+
+## 🎓 Academic Excellence
+
+### ⭐ 4.00 / 4.00 GPA
+
+📄 View Official Academic Transcript
+
+### College of Engineering Dean's List
+
+📄 Certificate
+
+### Presidential List
+
+📄 Certificate
+
+---
+
+## Scholarships
+
+- ASME Foundation Scholarship
+- ASME International Gas Turbine Institute (IGTI) Scholarship
+- National STEM Excellence Scholarship
+- Women of Excellence Scholarship
+- Embry-Riddle International Student Scholarship
+
+📄 View Scholarship Certificates
+
+---
+
+## Engineering & Leadership
+
+- First Place — AIAA Capture-the-Satellite Challenge
+- Dr. Currier Selected Design Award
+- Best Mentor–Mentee of the Year (ASME)
+
+📄 View Award Certificates
+
+---
+
+## Previous Academic Achievements
+
+- First Prize — Provincial Excellent Physics Competition
+- Second Prize — High School Physics Olympiad
+- Excellent Academic Performance Scholarship (2021–2023)
+- Best Student Award (2021–2023)
+
+📄 View Certificates
+
+---
+
+# CERTIFICATES
+
+Browse my collection of engineering, manufacturing, software, CAD, leadership, and professional development certificates.
+
+📂 Browse All Certificates
+
+---
+
 # CONTACT
 
-*Thank you for visiting my engineering portfolio. I'm always excited to connect with fellow engineers, researchers, recruiters, and industry professionals.*
+Thank you for visiting my engineering portfolio. I am always excited to connect with engineers, recruiters, researchers, and fellow students.
 
-<table>
-<tbody>
-
-<tr>
-<td>📧</td>
-<td><a href="mailto:">Lenaforwork33@gmail.com</a></td>
-</tr>
-
-<tr>
-<td>🎓</td>
-<td>Embry-Riddle Aeronautical University</td>
-</tr>
-
-<tr>
-<td>📍</td>
-<td>Daytona Beach, Florida, USA</td>
-</tr>
-
-<tr>
-<td>📄</td>
-<td><a href="Resume.pdf">Download Resume</a></td>
-</tr>
-
-<tr>
-<td>💼</td>
-<td><a href="YOUR_LINKEDIN">https://www.linkedin.com/in/le-na-hoang/</a></td>
-</tr>
-
-<tr>
-<td>💻</td>
-<td><a href="YOUR_GITHUB">GitHub</a></td>
-</tr>
-
-</tbody>
-</table>
+| | |
+|:---|:---|
+| 📧 | your_email@email.com |
+| 💼 | https://linkedin.com/in/yourprofile |
+| 💻 | https://github.com/yourusername |
+| 📄 | Download Resume |
+| 📍 | Daytona Beach, Florida |
+| 🎓 | Embry-Riddle Aeronautical University |
