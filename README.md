@@ -5,9 +5,6 @@
 # ABOUT ME
 
 Hello! I'm **Le Na Hoang**, a junior Mechanical Engineering student at Embry-Riddle Aeronautical University with a passion for mechanical design, robotics, sustainable engineering, and innovative product development.
-
-Originally from Vietnam, I came to the United States to pursue my dream of becoming an engineer. Throughout my academic journey, I have maintained a strong commitment to engineering excellence through undergraduate research, industry experience, student organizations, and hands-on design projects.
-
 My experiences range from mechanical system design and CAD modeling to engineering research and manufacturing, allowing me to approach problems with both creativity and analytical thinking.
 
 ---
@@ -126,47 +123,3 @@ Designed a Mandrel Centering Guide to improve manufacturing precision by ensurin
 [View Project →](projects/mandrel-centering-guide.html)
 
 ---
-
-<!-- ========================================= -->
-<!-- SECTION 3 : CONTACT -->
-<!-- ========================================= -->
-
-# CONTACT
-
-*Thank you for visiting my engineering portfolio. I'm always excited to connect with fellow engineers, researchers, recruiters, and industry professionals.*
-
-<table>
-<tbody>
-
-<tr>
-<td>📧</td>
-<td><a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a></td>
-</tr>
-
-<tr>
-<td>🎓</td>
-<td>Embry-Riddle Aeronautical University</td>
-</tr>
-
-<tr>
-<td>📍</td>
-<td>Daytona Beach, Florida, USA</td>
-</tr>
-
-<tr>
-<td>📄</td>
-<td><a href="Resume.pdf">Download Resume</a></td>
-</tr>
-
-<tr>
-<td>💼</td>
-<td><a href="YOUR_LINKEDIN">LinkedIn</a></td>
-</tr>
-
-<tr>
-<td>💻</td>
-<td><a href="YOUR_GITHUB">GitHub</a></td>
-</tr>
-
-</tbody>
-</table>
