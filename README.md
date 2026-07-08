@@ -289,15 +289,49 @@ Browse my collection of engineering, manufacturing, software, CAD, leadership, a
 
 ---
 
-# CONTACT
+## CONTACT DETAILS
 
-Thank you for visiting my engineering portfolio. I am always excited to connect with engineers, recruiters, researchers, and fellow students.
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:lenaforwork33@gmail.com">lenaforwork33@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(+1) 561-719-1889 </td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Daytona Beach, Florida </td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="## CONTACT DETAILS
 
-| | |
-|:---|:---|
-| 📧 | your_email@email.com |
-| 💼 | https://linkedin.com/in/yourprofile |
-| 💻 | https://github.com/yourusername |
-| 📄 | Download Resume |
-| 📍 | Daytona Beach, Florida |
-| 🎓 | Embry-Riddle Aeronautical University |
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 816-763-7212</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>PH, Nigeria</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/le-na-hoang/">The things I do daily on LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
