@@ -289,26 +289,13 @@ Browse my collection of engineering, manufacturing, software, CAD, leadership, a
 
 ---
 
-## CONTACT DETAILS
+# CONTACT
 
-*Let’s connect and see how we can make a difference together!*
-<table>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      <td><a href="mailto:lenaforwork33@gmail.com">lenaforwork33@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td>(+1) 561-719-1889 </td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>Daytona Beach, Florida </td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/le-na-hoang/">
-    </tr>
-  </tbody>
-</table>
+Thank you for visiting my engineering portfolio. I am always excited to connect with engineers, recruiters, researchers, and fellow students.
+
+| | |
+|:---|:---|
+| 📞 | (+1) 561 719 1889
+| 📧 | lenaforwork33@email.com |
+| 💼 | https://www.linkedin.com/in/le-na-hoang/ |
+| 📄 | Download Resume |
