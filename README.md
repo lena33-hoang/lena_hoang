@@ -99,7 +99,7 @@ Investigated orbital debris evolution under the influence of thermal forces. Dev
     </tr>
     <tr>
       <td>🏅</td>
-      <td>Dean's List — [Term/Year]</td>
+      <td>Dean's List — Fall 2024 - Present </td>
       <td><a href="certificates/deans-list.pdf">View Certificate</a></td>
     </tr>
     <tr>
