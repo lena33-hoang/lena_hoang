@@ -1,7 +1,7 @@
 <!--Section 1: Introduce yourself-->
 ## ABOUT ME
 
-Hello! I'm [Your Name] 🛠️, a junior Mechanical Engineering student at Embry-Riddle Aeronautical University with a 4.0 GPA 🎓, specializing in robotics, autonomous systems, mechanical design, and aerospace engineering. My engineering experience spans industry, research, and manufacturing — from designing medical device fixtures and studying orbital debris dynamics to developing aerospace simulation algorithms. I enjoy solving multidisciplinary engineering problems through CAD design, programming, prototyping, and analytical modeling.
+Hello! I'm **Le Na Hoang**, a junior Mechanical Engineering student at Embry-Riddle Aeronautical University with a *4.0 GPA* , specializing in robotics, autonomous systems, and mechanical design. I enjoy solving multidisciplinary engineering problems through CAD design, programming, prototyping, and analytical modeling.
 
 **Areas I'm particularly interested in:** Mechanical Design · Robotics · Aerospace Systems · Advanced Manufacturing · Space Engineering · Automation
 
@@ -17,15 +17,31 @@ I design parts, fixtures, and assemblies in SolidWorks and CATIA, producing indu
 **- ✅ Robotics & Automation.**
 I develop embedded control systems — sensor integration, actuation, and motion sequencing — for autonomous, sensor-driven mechanisms.
 
-**- ✅ Orbital Mechanics & Simulation.**
-I build numerical simulations in Python to model orbital dynamics, thermal perturbations, and long-term system behavior for aerospace research applications.
-
 **- ✅ Advanced Manufacturing.**
 I bring designs to life through CNC machining, welding, and precision assembly, working from CAD model to fabricated, tested part.
 
 
+<!--Section 3: Professional experience — keep this strong and specific-->
+## PROFESSIONAL EXPERIENCE
+
+**HDR Engineering — Mechanical Engineering Intern** *(Summer 2026)*
+![office/CAD image](assets/hdr-engineering-office.jpg)
+
+Assisted multidisciplinary engineering teams with mechanical system design for commercial infrastructure projects. Produced engineering drawings and CAD models following industry standards, supported design reviews and engineering calculations, and collaborated with experienced engineers throughout project development.
+
+**Skills:** AutoCAD · Revit · Mechanical Design · Engineering Documentation · Team Collaboration
+
+---
+
+**Undergraduate Researcher — Yarkovsky–Kessler Mitigation Research**
+![orbital simulation graphic](assets/orbital-simulation-graphic.png)
+
+Investigated orbital debris evolution under the influence of thermal forces. Developed orbital simulation models in Python, simulated thermal perturbations on irregular debris, modeled orbital decay behavior, and analyzed long-term orbital stability implications for sustainable space operations.
+
+**Technologies:** Python · Numerical Methods · Orbital Mechanics · Simulation · Data Analysis
+
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO
+## MY COURSEWORK EXPERIENCES
 
 *A glimpse of some of the engineering projects I've been working on.*
 
@@ -63,26 +79,46 @@ I bring designs to life through CNC machining, welding, and precision assembly, 
 
 [View Documentation](projects/orbital-debris-research/README.md) &nbsp;|&nbsp; [Download Report (PDF)](projects/orbital-debris-research/report.pdf)
 
+<!--Section 4: Honors & Awards — list each award with a link to its certificate/verification-->
+## HONORS & AWARDS
 
-<!--Section 3: Professional experience — keep this strong and specific-->
-## PROFESSIONAL EXPERIENCE
+*A few of the academic honors and scholarships I've received along the way.*
 
-**HDR Engineering — Mechanical Engineering Intern** *(Summer 2026)*
-![office/CAD image](assets/hdr-engineering-office.jpg)
-
-Assisted multidisciplinary engineering teams with mechanical system design for commercial infrastructure projects. Produced engineering drawings and CAD models following industry standards, supported design reviews and engineering calculations, and collaborated with experienced engineers throughout project development.
-
-**Skills:** AutoCAD · Revit · Mechanical Design · Engineering Documentation · Team Collaboration
-
----
-
-**Undergraduate Researcher — Yarkovsky–Kessler Mitigation Research**
-![orbital simulation graphic](assets/orbital-simulation-graphic.png)
-
-Investigated orbital debris evolution under the influence of thermal forces. Developed orbital simulation models in Python, simulated thermal perturbations on irregular debris, modeled orbital decay behavior, and analyzed long-term orbital stability implications for sustainable space operations.
-
-**Technologies:** Python · Numerical Methods · Orbital Mechanics · Simulation · Data Analysis
-
+<table>
+  <tbody>
+    <tr>
+      <td>⭐</td>
+      <td>4.0 / 4.0 GPA</td>
+      <td><a href="certificates/gpa-verification.pdf">View transcript</a></td>
+    </tr>
+    <tr>
+      <td>🏅</td>
+      <td>Dean's List — [Term/Year]</td>
+      <td><a href="certificates/deans-list.pdf">View Certificate</a></td>
+    </tr>
+    <tr>
+      <td>🎓</td>
+      <td>National STEM Excellence Scholarship</td>
+      <td><a href="certificates/national-stem-excellence-scholarship.pdf">View Certificate</a></td>
+    </tr>
+    <tr>
+      <td>🎓</td>
+      <td>ASME Hanley Foundation Scholarship</td>
+      <td><a href="certificates/asme-hanley-foundation-scholarship.pdf">View Certificate</a></td>
+    </tr>
+    <tr>
+      <td>🎓</td>
+      <td>ERAU International Scholarship</td>
+      <td><a href="certificates/erau-international-scholarship.pdf">View Certificate</a></td>
+    </tr>
+    <tr>
+      <td>🎓</td>
+      <td>Women of Excellence Scholarship</td>
+      <td><a href="certificates/women-of-excellence-scholarship.pdf">View Certificate</a></td>
+    </tr>
+    <!--Add additional rows here as you receive more awards, following the same format-->
+  </tbody>
+</table>
 
 ## CONTACT DETAILS
 
