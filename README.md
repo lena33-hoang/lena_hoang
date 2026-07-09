@@ -3,7 +3,9 @@
 
 Hello! I'm **Le Na Hoang**, a junior Mechanical Engineering student at Embry-Riddle Aeronautical University with a *4.0 GPA* , specializing in robotics, autonomous systems, and mechanical design. I enjoy solving multidisciplinary engineering problems through CAD design, programming, prototyping, and analytical modeling.
 
-**Areas I'm particularly interested in:** Mechanical Design · Robotics · Aerospace Systems · Advanced Manufacturing · Space Engineering · Automation
+My interest in engineering began in Vietnam, where I attended a gifted high school specializing in Physics. There, I built a strong theoretical and analytical foundation, but much of what I learned remained on paper through equations and theoretical problem-solving. Moving to the United States for college transformed the way I viewed engineering by the hands-on learning environment encouraged me to build, prototype, and test ideas, sparking a curiosity about how the world around me actually works. Since then, I've found the greatest excitement in turning concepts into tangible solutions, whether through research, homeworks, or coursework projects.
+
+Outside of engineering, one of my favorite places to be is the kitchen. I love cooking and experimenting with new recipes, especially Asian cuisine that reminds me of home while introducing me to flavors from different cultures. I enjoy sharing meals with friends and family because food has always been a way for me to connect with people and celebrate different cultures. Whether I'm building a prototype or perfecting a new dish, I find joy in creating something meaningful, learning from the process, and sharing the final result with others.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -11,15 +13,17 @@ Hello! I'm **Le Na Hoang**, a junior Mechanical Engineering student at Embry-Rid
 
 *As a Mechanical Engineering student at Embry-Riddle Aeronautical University, I focus on design, analysis, and manufacturing across mechanical, robotic, and aerospace systems.*
 
-**- ✅ Mechanical Design & CAD.**
-I design parts, fixtures, and assemblies in SolidWorks and CATIA, producing industry-standard engineering drawings and applying GD&T for manufacturability.
+**- Mechanical Design & CAD:**
+Design parts, fixtures, and assemblies in SolidWorks and CATIA, producing industry-standard engineering drawings and applying GD&T for manufacturability.
 
-**- ✅ Robotics & Automation.**
-I develop embedded control systems — sensor integration, actuation, and motion sequencing — for autonomous, sensor-driven mechanisms.
+**- Robotics & Automation:**
+Develop embedded control systems like: sensor integration, actuation, and motion sequencing for autonomous, sensor-driven mechanisms.
 
-**- ✅ Advanced Manufacturing.**
-I bring designs to life through CNC machining, welding, and precision assembly, working from CAD model to fabricated, tested part.
+**- Advanced Manufacturing:**
+Bring designs to life through CNC machining, welding, and precision assembly, working from CAD model to fabricated, tested part.
 
+**- Building Systems & BIM:**
+Develop and coordinate HVAC system designs using Revit, gaining experience with Building Information Modeling (BIM) and multidisciplinary engineering workflows.
 
 <!--Section 3: Professional experience — keep this strong and specific-->
 ## PROFESSIONAL EXPERIENCE
