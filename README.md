@@ -1,301 +1,113 @@
-
-<!-- Le Na Hoang Engineering Portfolio -->
-<!-- ========================================================= -->
-
-
----
-
+<!--Section 1: Introduce yourself-->
 ## ABOUT ME
 
-Hello! I'm **Le Na Hoang**, a junior pursuing a Bachelor of Science in **Mechanical Engineering** at **Embry-Riddle Aeronautical University** with a concentration in the Robotics Track. My passion is designing practical engineering solutions that bridge mechanical design, manufacturing, robotics, and sustainable engineering
+Hello! I'm [Your Name] 🛠️, a junior Mechanical Engineering student at Embry-Riddle Aeronautical University with a 4.0 GPA 🎓, specializing in robotics, autonomous systems, mechanical design, and aerospace engineering. My engineering experience spans industry, research, and manufacturing — from designing medical device fixtures and studying orbital debris dynamics to developing aerospace simulation algorithms. I enjoy solving multidisciplinary engineering problems through CAD design, programming, prototyping, and analytical modeling.
+
+**Areas I'm particularly interested in:** Mechanical Design · Robotics · Aerospace Systems · Advanced Manufacturing · Space Engineering · Automation
 
 
----
+<!--Mention your top/relevant skills here - core and soft skills-->
+## WHAT I DO / MY SPECIALTIES
 
-# WHAT I DO
+*As a Mechanical Engineering student at Embry-Riddle Aeronautical University, I focus on design, analysis, and manufacturing across mechanical, robotic, and aerospace systems.*
 
-*I enjoy solving engineering problems through design, analysis, prototyping, and research.*
+**- ✅ Mechanical Design & CAD.**
+I design parts, fixtures, and assemblies in SolidWorks and CATIA, producing industry-standard engineering drawings and applying GD&T for manufacturability.
 
-### ⚙️ Mechanical Design
+**- ✅ Robotics & Automation.**
+I develop embedded control systems — sensor integration, actuation, and motion sequencing — for autonomous, sensor-driven mechanisms.
 
-Designing mechanical components and assemblies using SolidWorks, CATIA, and AutoCAD while emphasizing manufacturability, reliability, and engineering best practices.
+**- ✅ Orbital Mechanics & Simulation.**
+I build numerical simulations in Python to model orbital dynamics, thermal perturbations, and long-term system behavior for aerospace research applications.
 
-### 🤖 Robotics & Prototyping
+**- ✅ Advanced Manufacturing.**
+I bring designs to life through CNC machining, welding, and precision assembly, working from CAD model to fabricated, tested part.
 
-Building electromechanical systems through CAD, sensors, actuators, Arduino programming, and prototype fabrication.
 
-### 🏗 Building Systems Engineering
+<!--Section 2: List 3-4 key projects-->
+## MY PORTFOLIO
 
-Supporting professional engineering projects involving HVAC systems, engineering documentation, CAD drafting, and multidisciplinary coordination.
+*A glimpse of some of the engineering projects I've been working on.*
 
-### 🔬 Engineering Research
+**Mandrel Centering Guide — Medical Manufacturing Fixture**
+![render](assets/mandrel-centering-guide-render.png)
 
-Conducting undergraduate aerospace research involving computational analysis, simulations, technical documentation, and collaborative problem solving.
+*Problem Statement:* Designed and fabricated a precision fixture to improve mandrel alignment accuracy during medical device production, applying GD&T and tolerance stack-up analysis to meet tight positional requirements.
 
-### 💡 Product Development
-
-Applying the engineering design process from concept generation to prototype development and iterative design improvements.
-
----
-
-# PROFESSIONAL EXPERIENCE
-
-## Mechanical Engineering Intern
-### HDR Engineering & Architecture
-
-![image](images/hdr.jpg)
-
-Working alongside licensed engineers on mechanical building system design projects while gaining real-world consulting experience.
-
-**Responsibilities**
-
-- Mechanical system design support
-- Engineering calculations
-- CAD drafting
-- Engineering documentation
-- Specification review
-- Multidisciplinary coordination
-
-➡️ **Read More**
+[View Documentation](projects/mandrel-centering-guide/README.md) &nbsp;|&nbsp; [Download Report (PDF)](projects/mandrel-centering-guide/report.pdf)
 
 ---
 
-## Undergraduate Research Assistant
-### Embry-Riddle Aeronautical University
+**Multifunctional Desk Lamp — CATIA Final Project**
+![render](assets/desk-lamp-catia-render.png)
 
-![image](images/research.jpg)
+*Problem Statement:* Designed a manufacturable desk lamp assembly integrating a phone holder, storage drawer, and lighting into one product, using constraint-based assembly modeling in CATIA V5 to verify stability and motion clearance.
 
-Supporting faculty research involving aerospace engineering, computational analysis, engineering simulations, and technical reporting.
-
-➡️ **Read More**
+[View Documentation](projects/desk-lamp-catia/README.md) &nbsp;|&nbsp; [Download Report (PDF)](projects/desk-lamp-catia/report.pdf)
 
 ---
 
-## Library Technician
-### Hunt Library
+**Halloween Animatronic — Embedded Systems Project**
+![render](assets/animatronic-demo-photo.jpg)
 
-![image](images/library.jpg)
+*Problem Statement:* Designed and programmed an autonomous animatronic capable of detecting nearby users via ultrasonic sensing and performing synchronized, servo-driven movement sequences.
 
-Providing customer service while supporting library operations, improving communication, organization, and teamwork skills.
-
-➡️ **Read More**
+[View Documentation](projects/halloween-animatronic/README.md) &nbsp;|&nbsp; [Download Report (PDF)](projects/halloween-animatronic/report.pdf)
 
 ---
 
-# ENGINEERING PROJECTS
+**Yarkovsky–Kessler Mitigation Research — Orbital Debris Simulation**
+![render](assets/orbital-debris-sim-plot.png)
 
-*A collection of engineering projects demonstrating mechanical design, CAD modeling, prototyping, manufacturing, and engineering analysis.*
+*Problem Statement:* Conducted undergraduate research modeling orbital debris evolution under thermal forces, developing Python-based simulations to analyze thermal perturbations, orbital decay, and long-term stability for sustainable space operations.
 
----
+[View Documentation](projects/orbital-debris-research/README.md) &nbsp;|&nbsp; [Download Report (PDF)](projects/orbital-debris-research/report.pdf)
 
-## 🎃 Halloween Animatronic Mummy
 
-![image](images/mummy.jpg)
+<!--Section 3: Professional experience — keep this strong and specific-->
+## PROFESSIONAL EXPERIENCE
 
-Designed and built an interactive animatronic capable of automatically sitting upright and rotating its head using Arduino, ultrasonic sensors, servo motors, and custom mechanical mechanisms.
+**HDR Engineering — Mechanical Engineering Intern** *(Summer 2026)*
+![office/CAD image](assets/hdr-engineering-office.jpg)
 
-### Skills Demonstrated
+Assisted multidisciplinary engineering teams with mechanical system design for commercial infrastructure projects. Produced engineering drawings and CAD models following industry standards, supported design reviews and engineering calculations, and collaborated with experienced engineers throughout project development.
 
-- Mechanical Design
-- Arduino Programming
-- Motion Control
-- Sensors
-- Servo Motors
-- Prototype Fabrication
-- Team Collaboration
-
-### Technologies
-
-SolidWorks • Arduino • Ultrasonic Sensor • Servo Motor • Geared DC Motor
-
-📄 Engineering Report
-
-📷 CAD Gallery
-
-🎥 Demonstration Video
-
-➡️ **Read More**
+**Skills:** AutoCAD · Revit · Mechanical Design · Engineering Documentation · Team Collaboration
 
 ---
 
-## 💡 Upgraded Desk Lamp
-
-![image](images/desklamp.jpg)
-
-Redesigned a traditional desk lamp to improve adjustability, structural stability, manufacturability, and aesthetics using CATIA.
-
-### Skills Demonstrated
-
-- Product Design
-- Parametric Modeling
-- Assembly Design
-- Engineering Drawings
-- Design Optimization
-
-### Technologies
-
-CATIA • Product Design • Mechanical Design
-
-📄 Engineering Report
-
-📷 CAD Gallery
-
-➡️ **Read More**
-
----
-
-## ⚙️ Mandrel Centering Guide
-
-![image](images/mandrel.jpg)
-
-Designed a manufacturing fixture that improves alignment accuracy, simplifies assembly procedures, and reduces positioning errors.
-
-### Skills Demonstrated
-
-- Precision Design
-- Manufacturing Design
-- CAD Modeling
-- DFM
-- Mechanical Assembly
-
-### Technologies
-
-CATIA • Manufacturing Design
-
-📄 Engineering Report
-
-📷 CAD Gallery
-
-➡️ **Read More**
-
----
-
-## 🌿 ThermaWeave
-
-![image](images/thermaweave.jpg)
-
-Designed an adaptive modular façade system inspired by woven textiles to improve passive cooling, reduce building energy consumption, and simplify retrofitting of existing buildings.
-
-### Skills Demonstrated
-
-- Sustainable Design
-- CAD Modeling
-- Product Development
-- Energy Efficiency
-- Building Systems
-
-### Technologies
-
-SolidWorks • CAD • Sustainable Engineering
-
-📄 Project Report
-
-📷 CAD Renderings
-
-➡️ **Read More**
-
----
-
-# TECHNICAL SKILLS
-
-## CAD & Engineering Design
-
-- SolidWorks
-- CATIA
-- AutoCAD
-
-## Programming
-
-- MATLAB
-- Python
-- Arduino
-
-## Engineering
-
-- Mechanical Design
-- Product Development
-- GD&T
-- Engineering Drawings
-- DFM
-- Mechanical Assembly
-- Prototyping
-
-## Research
-
-- Engineering Documentation
-- Technical Writing
-- Engineering Analysis
-- Problem Solving
-- Technical Communication
-
----
-
-# HONORS & AWARDS
-
-## 🎓 Academic Excellence
-
-### ⭐ 4.00 / 4.00 GPA
-
-📄 View Official Academic Transcript
-
-### College of Engineering Dean's List
-
-📄 Certificate
-
-### Presidential List
-
-📄 Certificate
-
----
-
-## Scholarships
-
-- ASME Foundation Scholarship
-- ASME International Gas Turbine Institute (IGTI) Scholarship
-- National STEM Excellence Scholarship
-- Women of Excellence Scholarship
-- Embry-Riddle International Student Scholarship
-
-📄 View Scholarship Certificates
-
----
-
-## Engineering & Leadership
-
-- First Place — AIAA Capture-the-Satellite Challenge
-- Dr. Currier Selected Design Award
-- Best Mentor–Mentee of the Year (ASME)
-
-📄 View Award Certificates
-
----
-
-## Previous Academic Achievements
-
-- First Prize — Provincial Excellent Physics Competition
-- Second Prize — High School Physics Olympiad
-- Excellent Academic Performance Scholarship (2021–2023)
-- Best Student Award (2021–2023)
-
-📄 View Certificates
-
----
-
-# CERTIFICATES
-
-Browse my collection of engineering, manufacturing, software, CAD, leadership, and professional development certificates.
-
-📂 Browse All Certificates
-
----
-
-# CONTACT
-
-Thank you for visiting my engineering portfolio. I am always excited to connect with engineers, recruiters, researchers, and fellow students.
-
-| | |
-|:---|:---|
-| 📞 | (+1) 561 719 1889
-| 📧 | lenaforwork33@email.com |
-| 💼 | https://www.linkedin.com/in/le-na-hoang/ |
-| 📄 | Download Resume |
+**Undergraduate Researcher — Yarkovsky–Kessler Mitigation Research**
+![orbital simulation graphic](assets/orbital-simulation-graphic.png)
+
+Investigated orbital debris evolution under the influence of thermal forces. Developed orbital simulation models in Python, simulated thermal perturbations on irregular debris, modeled orbital decay behavior, and analyzed long-term orbital stability implications for sustainable space operations.
+
+**Technologies:** Python · Numerical Methods · Orbital Mechanics · Simulation · Data Analysis
+
+
+## CONTACT DETAILS
+
+*Let's connect — I'm always excited to discuss opportunities in mechanical engineering, robotics, aerospace systems, and research!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:youremail@example.com">youremail@example.com</a></td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>[City, State]</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="docs/resume.pdf">Download my Resume (PDF)</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://linkedin.com/in/yourprofile">Connect with me on LinkedIn</a></td>
+    </tr>
+    <tr>
+      <td>💻</td>
+      <td><a href="https://github.com/yourusername">Check out my code on GitHub</a></td>
+    </tr>
+  </tbody>
+</table>
