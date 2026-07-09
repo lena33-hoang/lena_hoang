@@ -95,7 +95,7 @@ Investigated orbital debris evolution under the influence of thermal forces. Dev
     <tr>
       <td>⭐</td>
       <td>4.0 / 4.0 GPA</td>
-      <td><a href="certificates/gpa-verification.pdf">View transcript</a></td>
+      <td><a href="LNH_transcript_2026.pdf">View transcript</a></td>
     </tr>
     <tr>
       <td>🏅</td>
