@@ -97,26 +97,27 @@ Investigated orbital debris evolution under the influence of thermal forces. Dev
       <td>4.0 / 4.0 GPA and Dean's List </td>
       <td><a href="LNH_transcript_2026.pdf">View transcript</a></td>
     </tr>
-    <tr>
+     <tr>
       <td>🎓</td>
       <td>National STEM Excellence Scholarship</td>
-      <td><a href="certificates/national-stem-excellence-scholarship.pdf">View Certificate</a></td>
+      <td><a href="National STEM Excellence Scholarship.png">View Certificate</a></td>
+    </tr>
+     <tr>
+      <td>🎓</td>
+      <td>ASME IGTI Foundation Scholarship</td>
+      <td><a href="ASME_Award_26.pdf">View Certificate</a></td>
+    </tr>
+     <tr>
+      <td>🎓</td>
+      <td>AFCEA STEM Major Scholarship </td>
+      <td><a href="AFCEA Scholarship Announcement.png">View Certificate</a></td>
     </tr>
     <tr>
       <td>🎓</td>
       <td>ASME Hanley Foundation Scholarship</td>
-      <td><a href="certificates/asme-hanley-foundation-scholarship.pdf">View Certificate</a></td>
+      <td><a href="ASME_HanleyFoundation_25.pdf">View Certificate</a></td>
     </tr>
-    <tr>
-      <td>🎓</td>
-      <td>ERAU International Scholarship</td>
-      <td><a href="certificates/erau-international-scholarship.pdf">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td>🎓</td>
-      <td>Women of Excellence Scholarship</td>
-      <td><a href="certificates/women-of-excellence-scholarship.pdf">View Certificate</a></td>
-    </tr>
+   
     <!--Add additional rows here as you receive more awards, following the same format-->
   </tbody>
 </table>
@@ -128,11 +129,11 @@ Investigated orbital debris evolution under the influence of thermal forces. Dev
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:youremail@example.com">youremail@example.com</a></td>
+      <td><a href="mailto: lenaforwork33@gmail.com ">lenaforwork33@gmail.com</a></td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>[City, State]</td>
+      <td>Daytona Beach, FL</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -140,11 +141,7 @@ Investigated orbital debris evolution under the influence of thermal forces. Dev
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/yourprofile">Connect with me on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>💻</td>
-      <td><a href="https://github.com/yourusername">Check out my code on GitHub</a></td>
+      <td><a href="https://www.linkedin.com/in/le-na-hoang/">Connect with me on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
