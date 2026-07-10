@@ -1,6 +1,4 @@
 
-
-
 ## Technical Project Overview
 Your engineering text, CAD models, and FEA data go here...
 
