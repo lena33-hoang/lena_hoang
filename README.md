@@ -34,7 +34,6 @@ Develop and coordinate HVAC system designs using Revit, gaining experience with 
 
 <a href="HDR.md"> View More </a>
 
-
 ---
 
 **ERAU XDLab / Undergraduate Researcher** *(08/2025 - 05/2026)*
