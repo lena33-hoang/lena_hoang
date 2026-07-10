@@ -32,7 +32,7 @@ Develop and coordinate HVAC system designs using Revit, gaining experience with 
 **HDR Architecture & Engineering Inc. / Mechanical Engineering Intern** *(05/2026 - 08/2026)*
 ![office/CAD image](HDR logo.png)
 
-<a href="HDR.md" target="_blank"> View More </a>
+<a href="HDR.md"> View More </a>
 
 
 ---
