@@ -30,21 +30,20 @@ Develop and coordinate HVAC system designs using Revit, gaining experience with 
 <!--Section 3: Professional experience — keep this strong and specific-->
 ## PROFESSIONAL EXPERIENCE
 
-**HDR Engineering — Mechanical Engineering Intern** *(Summer 2026)*
-![office/CAD image](assets/hdr-engineering-office.jpg)
+**HDR Architecture & Engineering Inc. / Mechanical Engineering Intern** *(05/2026 - 08/2026)*
+![office/CAD image](HDR logo.png)
 
-Assisted multidisciplinary engineering teams with mechanical system design for commercial infrastructure projects. Produced engineering drawings and CAD models following industry standards, supported design reviews and engineering calculations, and collaborated with experienced engineers throughout project development.
-
-**Skills:** AutoCAD · Revit · Mechanical Design · Engineering Documentation · Team Collaboration
 
 ---
 
-**Undergraduate Researcher — Yarkovsky–Kessler Mitigation Research**
-![orbital simulation graphic](assets/orbital-simulation-graphic.png)
+**ERAU XDLab / Undergraduate Researcher** *(08/2025 - 05/2026)*
+![orbital simulation graphic](XDLab Logo.png)
 
-Investigated orbital debris evolution under the influence of thermal forces. Developed orbital simulation models in Python, simulated thermal perturbations on irregular debris, modeled orbital decay behavior, and analyzed long-term orbital stability implications for sustainable space operations.
 
-**Technologies:** Python · Numerical Methods · Orbital Mechanics · Simulation · Data Analysis
+---
+
+**ERAU Hunt Library / Library Technician** *(03/2025 - Present)*
+![logo](HuntLib logo.png)
 
 <!--Section 2: List 3-4 key projects-->
 ## MY COURSEWORK EXPERIENCES
@@ -77,13 +76,6 @@ Investigated orbital debris evolution under the influence of thermal forces. Dev
 [View Documentation](projects/halloween-animatronic/README.md) &nbsp;|&nbsp; [Download Report (PDF)](projects/halloween-animatronic/report.pdf)
 
 ---
-
-**Yarkovsky–Kessler Mitigation Research — Orbital Debris Simulation**
-![render](assets/orbital-debris-sim-plot.png)
-
-*Problem Statement:* Conducted undergraduate research modeling orbital debris evolution under thermal forces, developing Python-based simulations to analyze thermal perturbations, orbital decay, and long-term stability for sustainable space operations.
-
-[View Documentation](projects/orbital-debris-research/README.md) &nbsp;|&nbsp; [Download Report (PDF)](projects/orbital-debris-research/report.pdf)
 
 <!--Section 4: Honors & Awards — list each award with a link to its certificate/verification-->
 ## HONORS & AWARDS
