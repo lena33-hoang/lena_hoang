@@ -165,44 +165,66 @@ Designed and programmed an autonomous animatronic capable of detecting nearby us
 
 </details>
 
----
-
 <!--Section 4: Honors & Awards — list each award with a link to its certificate/verification-->
-## HONORS & AWARDS
+<details>
+<summary><strong style="font-size:1.5em;">HONORS &amp; AWARDS</strong></summary>
 
-*A few of the academic honors and scholarships I've received along the way.*
+<p><em>A few of the academic honors and scholarships that have recognized my dedication to engineering, academic excellence, and leadership.</em></p>
 
-<table>
-  <tbody>
-    <tr>
-      <td>⭐</td>
-      <td>4.0 / 4.0 GPA and Dean's List </td>
-      <td><a href="LNH_transcript_2026.pdf">View transcript</a></td>
-    </tr>
-     <tr>
-      <td>🎓</td>
-      <td>National STEM Excellence Scholarship</td>
-      <td><a href="National STEM Excellence Scholarship.png">View Certificate</a></td>
-    </tr>
-     <tr>
-      <td>🎓</td>
-      <td>ASME IGTI Foundation Scholarship</td>
-      <td><a href="ASME_Award_26.pdf">View Certificate</a></td>
-    </tr>
-     <tr>
-      <td>🎓</td>
-      <td>AFCEA STEM Major Scholarship </td>
-      <td><a href="AFCEA Scholarship Announcement.png">View Certificate</a></td>
-    </tr>
-    <tr>
-      <td>🎓</td>
-      <td>ASME Hanley Foundation Scholarship</td>
-      <td><a href="ASME_HanleyFoundation_25.pdf">View Certificate</a></td>
-    </tr>
-   
-    <!--Add additional rows here as you receive more awards, following the same format-->
-  </tbody>
-</table>
+<p>
+⭐ <strong>4.0 / 4.0 GPA &amp; Dean's List</strong><br>
+Embry-Riddle Aeronautical University
+</p>
+
+<p>
+<a href="LNH_transcript_2026.pdf" target="_blank">📄 View Official Transcript</a>
+</p>
+
+<hr>
+
+<p>
+🎓 <strong>National STEM Excellence Scholarship</strong><br>
+Awarded for outstanding academic achievement and leadership.
+</p>
+
+<p>
+<a href="National STEM Excellence Scholarship.png" target="_blank">🏆 View Certificate</a>
+</p>
+
+<hr>
+
+<p>
+🎓 <strong>ASME International Gas Turbine Institute (IGTI) Foundation Scholarship</strong><br>
+Awarded by the American Society of Mechanical Engineers.
+</p>
+
+<p>
+<a href="ASME_Award_26.pdf" target="_blank">📄 View Award Letter</a>
+</p>
+
+<hr>
+
+<p>
+🎓 <strong>AFCEA STEM Major Scholarship</strong><br>
+Recognized for academic excellence and potential in STEM.
+</p>
+
+<p>
+<a href="AFCEA Scholarship Announcement.png" target="_blank">🏆 View Certificate</a>
+</p>
+
+<hr>
+
+<p>
+🎓 <strong>ASME Hanley Foundation Scholarship</strong><br>
+Awarded for academic excellence and involvement in the mechanical engineering community.
+</p>
+
+<p>
+<a href="ASME_HanleyFoundation_25.pdf" target="_blank">📄 View Award Letter</a>
+</p>
+
+</details>
 
 ## CONTACT DETAILS
 
