@@ -104,34 +104,66 @@ Provided technical support and managed library resources while assisting student
 </details>
 <!--Section 2: List 3-4 key projects-->
 
-## MY COURSEWORK PROJECTS
+<details>
+<summary><strong style="font-size:1.5em;">MY COURSEWORK PROJECTS</strong></summary>
 
-*A glimpse of some of the engineering projects I've been working on.*
+<p><em>A selection of engineering projects that demonstrate my experience in mechanical design, manufacturing, CAD, and embedded systems.</em></p>
 
-**Mandrel Centering Guide — Medical Manufacturing Fixture**
-![render](assets/mandrel-centering-guide-render.png)
+<hr>
 
-*Problem Statement:* Designed and fabricated a precision fixture to improve mandrel alignment accuracy during medical device production, applying GD&T and tolerance stack-up analysis to meet tight positional requirements.
+<p>
+<strong>Mandrel Centering Guide — Medical Manufacturing Fixture</strong>
+</p>
 
-[View Documentation](projects/mandrel-centering-guide/README.md) &nbsp;|&nbsp; [Download Report (PDF)](projects/mandrel-centering-guide/report.pdf)
+<p align="center">
+<img src="assets/mandrel-centering-guide-render.png" width="500">
+</p>
 
----
+<p>
+Designed and fabricated a precision fixture to improve mandrel alignment accuracy during medical device production, applying GD&amp;T and tolerance stack-up analysis to meet tight positional requirements.
+</p>
 
-**Multifunctional Desk Lamp — CATIA Final Project**
-![render](assets/desk-lamp-catia-render.png)
+<p>
+<a href="{{ '/MandrelGuide' | relative_url }}"><strong>View Project →</strong></a>
+</p>
 
-*Problem Statement:* Designed a manufacturable desk lamp assembly integrating a phone holder, storage drawer, and lighting into one product, using constraint-based assembly modeling in CATIA V5 to verify stability and motion clearance.
+<hr>
 
-[View Documentation](projects/desk-lamp-catia/README.md) &nbsp;|&nbsp; [Download Report (PDF)](projects/desk-lamp-catia/report.pdf)
+<p>
+<strong>Multifunctional Desk Lamp — CATIA Final Project</strong>
+</p>
 
----
+<p align="center">
+<img src="assets/desk-lamp-catia-render.png" width="500">
+</p>
 
-**Halloween Animatronic — Embedded Systems Project**
-![render](assets/animatronic-demo-photo.jpg)
+<p>
+Designed a manufacturable desk lamp assembly integrating a phone holder, storage drawer, and lighting into a single product while using CATIA V5 to validate assembly constraints and motion clearance.
+</p>
 
-*Problem Statement:* Designed and programmed an autonomous animatronic capable of detecting nearby users via ultrasonic sensing and performing synchronized, servo-driven movement sequences.
+<p>
+<a href="{{ '/DeskLamp' | relative_url }}"><strong>View Project →</strong></a>
+</p>
 
-[View Documentation](projects/halloween-animatronic/README.md) &nbsp;|&nbsp; [Download Report (PDF)](projects/halloween-animatronic/report.pdf)
+<hr>
+
+<p>
+<strong>Halloween Animatronic — Embedded Systems Project</strong>
+</p>
+
+<p align="center">
+<img src="assets/animatronic-demo-photo.jpg" width="500">
+</p>
+
+<p>
+Designed and programmed an autonomous animatronic capable of detecting nearby users through ultrasonic sensing and performing synchronized servo-driven motion sequences.
+</p>
+
+<p>
+<a href="{{ '/Halloween' | relative_url }}"><strong>View Project →</strong></a>
+</p>
+
+</details>
 
 ---
 
