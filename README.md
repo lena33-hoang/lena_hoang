@@ -177,18 +177,18 @@ Embry-Riddle Aeronautical University
 </p>
 
 <p>
-<a href="LNH_transcript_2026.pdf" target="_blank">📄 View Official Transcript</a>
+<a href="LNH_transcript_2026.pdf" target="_blank">📄 View Transcript</a>
 </p>
 
 <hr>
 
 <p>
 🎓 <strong>National STEM Excellence Scholarship</strong><br>
-Awarded for outstanding academic achievement and leadership.
+Awarded by the National STEM Excellence Foundation for outstanding academic achievement and leadership.
 </p>
 
 <p>
-<a href="National STEM Excellence Scholarship.png" target="_blank">🏆 View Certificate</a>
+<a href="National STEM Excellence Scholarship.png" target="_blank">🏆 View Award Letter</a>
 </p>
 
 <hr>
@@ -206,18 +206,18 @@ Awarded by the American Society of Mechanical Engineers.
 
 <p>
 🎓 <strong>AFCEA STEM Major Scholarship</strong><br>
-Recognized for academic excellence and potential in STEM.
+Awarded by the AFCEA International Foundation for academic excellence and potential in STEM.
 </p>
 
 <p>
-<a href="AFCEA Scholarship Announcement.png" target="_blank">🏆 View Certificate</a>
+<a href="AFCEA Scholarship Announcement.png" target="_blank">🏆 View Award Letter</a>
 </p>
 
 <hr>
 
 <p>
 🎓 <strong>ASME Hanley Foundation Scholarship</strong><br>
-Awarded for academic excellence and involvement in the mechanical engineering community.
+Awarded by the American Society of Mechanical Engineers for academic excellence and involvement in the mechanical engineering community.
 </p>
 
 <p>
