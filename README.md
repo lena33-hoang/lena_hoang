@@ -49,25 +49,62 @@ Develop and coordinate HVAC system designs using Revit while gaining experience 
 </details>
 
 <!--Section 3: Professional experience — keep this strong and specific-->
-## PROFESSIONAL EXPERIENCE
+<details>
+<summary><strong style="font-size:1.5em;">PROFESSIONAL EXPERIENCE</strong></summary>
 
-**HDR Architecture & Engineering Inc. / Mechanical Engineering Intern** *(05/2026 - 08/2026)*
-![office/CAD image](HDR logo.png)
+<p>
+<strong>HDR Architecture & Engineering Inc.</strong><br>
+<em>Mechanical Engineering Intern | May 2026 – August 2026</em>
+</p>
 
-<a href="HDR.md" target="_blank"> View More </a>
+<img src="assets/images/HDR_logo.png" width="160">
 
----
+<p>
+Designed HVAC systems using Revit and collaborated with multidisciplinary teams to develop Building Information Models (BIM) for commercial building projects.
+</p>
 
-** XDLab / Undergraduate Researcher ** *(09/2025 - 05/2026)*
-![office/CAD image](XDLab Logo.png)
+<p>
+<a href="{{ '/HDR' | relative_url }}">View Project →</a>
+</p>
 
----
+<hr>
 
-**ERAU Hunt Library / Library Technician** *(03/2025 - Present)*
-![logo](HuntLib logo.png)
+<p>
+<strong>XDLab</strong><br>
+<em>Undergraduate Researcher | September 2025 – May 2026</em>
+</p>
 
+<img src="assets/images/XDLab_logo.png" width="160">
+
+<p>
+Conducted computational research on orbital debris dynamics and developed simulation tools for the Yarkovsky Effect Project.
+</p>
+
+<p>
+<a href="{{ '/XDLab.html' | relative_url }}">View Project →</a>
+</p>
+
+<hr>
+
+<p>
+<strong>ERAU Hunt Library</strong><br>
+<em>Library Technician | March 2025 – Present</em>
+</p>
+
+<img src="assets/images/HuntLib_logo.png" width="160">
+
+<p>
+Provided technical support and managed library resources while assisting students and faculty.
+</p>
+
+<p>
+<a href="{{ '/Library.html' | relative_url }}">View Project →</a>
+</p>
+
+</details>
 <!--Section 2: List 3-4 key projects-->
-## MY COURSEWORK EXPERIENCES
+
+## MY COURSEWORK PROJECTS
 
 *A glimpse of some of the engineering projects I've been working on.*
 
