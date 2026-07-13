@@ -1,14 +1,14 @@
 <!--Section 1: Introduce yourself-->
 <details>
-<summary><strong style="font-size: 2em;">ABOUT ME</strong></summary>
+<summary><strong style="font-size: 1.5em;">ABOUT ME</strong></summary>
   
-Hello! I'm **Le Na Hoang**, a junior Mechanical Engineering student at Embry-Riddle Aeronautical University with a *4.0 GPA* , specializing in robotics, autonomous systems, and mechanical design. I enjoy solving multidisciplinary engineering problems through CAD design, programming, prototyping, and analytical modeling.
+Hello! I'm **Le Na Hoang**, a junior Mechanical Engineering student at Embry-Riddle Aeronautical University with a *4.0 GPA* , specializing in robotics, autonomous systems, and mechanical design. I enjoy solving multidisciplinary engineering problems through CAD design, programming, prototyping, and analytical modeling. <br>
 
-My interest in engineering began in Vietnam, where I attended a gifted high school specializing in Physics. There, I built a strong theoretical and analytical foundation, but much of what I learned remained on paper through equations and theoretical problem-solving. Moving to the United States for college transformed how I viewed engineering. The hands-on learning environment encouraged me to build, prototype, and test ideas, sparking a curiosity about how the world around me actually works. Since then, I've found the greatest excitement in turning concepts into tangible solutions, whether through research and coursework projects.
+My interest in engineering began in Vietnam, where I attended a gifted high school specializing in Physics. There, I built a strong theoretical and analytical foundation, but much of what I learned remained on paper through equations and theoretical problem-solving. Moving to the United States for college transformed how I viewed engineering. The hands-on learning environment encouraged me to build, prototype, and test ideas, sparking a curiosity about how the world around me actually works. Since then, I've found the greatest excitement in turning concepts into tangible solutions, whether through research and coursework projects. <br>
 
-Outside of engineering, one of my favorite places to be is the kitchen. I love cooking and experimenting with new recipes, especially Asian cuisine that reminds me of home while introducing me to flavors from different cultures. I find the process surprisingly similar to engineering: every recipe is an opportunity to test ideas, refine techniques, and learn through iteration until everything comes together. It's a creative outlet that reminds me to stay curious, embrace experimentation, and enjoy the process as much as the final result. 
+Outside of engineering, one of my favorite places to be is the kitchen. I love cooking and experimenting with new recipes, especially Asian cuisine that reminds me of home while introducing me to flavors from different cultures. I find the process surprisingly similar to engineering: every recipe is an opportunity to test ideas, refine techniques, and learn through iteration until everything comes together. It's a creative outlet that reminds me to stay curious, embrace experimentation, and enjoy the process as much as the final result. <br>
 
-As I continue my career, I hope to contribute to innovative teams developing technologies in robotics, aerospace, or advanced mechanical systems that solve meaningful real-world problems.
+As I continue my career, I hope to contribute to innovative teams developing technologies in robotics, aerospace, or advanced mechanical systems that solve meaningful real-world problems.<br>
 
 </details>
 
