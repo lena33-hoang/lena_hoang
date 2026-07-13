@@ -21,21 +21,32 @@ As I continue my career, I hope to contribute to innovative teams developing tec
 </details>
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO / MY SPECIALTIES
+<details>
+<summary><strong style="font-size: 1.5em;">WHAT I DO / MY SPECIALTIES</strong></summary>
 
-*As a Mechanical Engineering student at Embry-Riddle Aeronautical University, I focus on design, analysis, and manufacturing across mechanical, robotic, and aerospace systems.*
+<p><em>As a Mechanical Engineering student at Embry-Riddle Aeronautical University, I focus on design, analysis, manufacturing, and hands-on problem solving across mechanical, robotic, and aerospace systems.</em></p>
 
-**- Mechanical Design & CAD:**
-Design parts, fixtures, and assemblies in SolidWorks and CATIA, producing industry-standard engineering drawings and applying GD&T for manufacturability.
+<p>
+<strong>Mechanical Design &amp; CAD:</strong><br>
+Design mechanical components, fixtures, and assemblies in SolidWorks and CATIA while producing industry-standard engineering drawings and applying GD&amp;T principles for manufacturability.
+</p>
 
-**- Robotics & Automation:**
+<p>
+<strong>Robotics &amp; Automation:</strong><br>
 Develop embedded control systems, including sensor integration, actuation, and motion sequencing, for autonomous and sensor-driven mechanisms.
+</p>
 
-**- Advanced Manufacturing:**
-Bring designs to life through CNC machining, welding, and precision assembly, working from CAD model to fabricated, tested part.
+<p>
+<strong>Advanced Manufacturing:</strong><br>
+Bring designs to life through CNC machining, welding, and precision assembly, taking projects from CAD models to fabricated and tested prototypes.
+</p>
 
-**- Building Systems & BIM:**
-Develop and coordinate HVAC system designs using Revit, gaining experience with Building Information Modeling (BIM) and multidisciplinary engineering workflows.
+<p>
+<strong>Building Systems &amp; BIM:</strong><br>
+Develop and coordinate HVAC system designs using Revit while gaining experience with Building Information Modeling (BIM) and multidisciplinary engineering workflows.
+</p>
+
+</details>
 
 <!--Section 3: Professional experience — keep this strong and specific-->
 ## PROFESSIONAL EXPERIENCE
