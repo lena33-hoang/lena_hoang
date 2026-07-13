@@ -81,7 +81,7 @@ Conducted computational research on orbital debris dynamics and developed simula
 </p>
 
 <p>
-<a href="{{ '/XDLab.html' | relative_url }}">View Project →</a>
+<a href="{{ '/XDLab' | relative_url }}">View Project →</a>
 </p>
 
 <hr>
