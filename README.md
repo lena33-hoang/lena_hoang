@@ -58,6 +58,11 @@ Develop and coordinate HVAC system designs using Revit while gaining experience 
 
 ---
 
+** XDLab / Undergraduate Researcher ** *(09/2025 - 05/2026)*
+![office/CAD image](XDLab Logo.png)
+
+---
+
 **ERAU Hunt Library / Library Technician** *(03/2025 - Present)*
 ![logo](HuntLib logo.png)
 
