@@ -1,6 +1,7 @@
 <!--Section 1: Introduce yourself-->
 <details>
-<summary> ## ABOUT ME </summary>
+<summary><h2>ABOUT ME</h2></summary>
+  
 Hello! I'm **Le Na Hoang**, a junior Mechanical Engineering student at Embry-Riddle Aeronautical University with a *4.0 GPA* , specializing in robotics, autonomous systems, and mechanical design. I enjoy solving multidisciplinary engineering problems through CAD design, programming, prototyping, and analytical modeling.
 
 My interest in engineering began in Vietnam, where I attended a gifted high school specializing in Physics. There, I built a strong theoretical and analytical foundation, but much of what I learned remained on paper through equations and theoretical problem-solving. Moving to the United States for college transformed how I viewed engineering. The hands-on learning environment encouraged me to build, prototype, and test ideas, sparking a curiosity about how the world around me actually works. Since then, I've found the greatest excitement in turning concepts into tangible solutions, whether through research and coursework projects.
