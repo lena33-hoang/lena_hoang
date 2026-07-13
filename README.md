@@ -9,6 +9,7 @@ My interest in engineering began in Vietnam, where I attended a gifted high scho
 Outside of engineering, one of my favorite places to be is the kitchen. I love cooking and experimenting with new recipes, especially Asian cuisine that reminds me of home while introducing me to flavors from different cultures. I find the process surprisingly similar to engineering: every recipe is an opportunity to test ideas, refine techniques, and learn through iteration until everything comes together. It's a creative outlet that reminds me to stay curious, embrace experimentation, and enjoy the process as much as the final result. 
 
 As I continue my career, I hope to contribute to innovative teams developing technologies in robotics, aerospace, or advanced mechanical systems that solve meaningful real-world problems.
+
 </details>
 
 <!--Mention your top/relevant skills here - core and soft skills-->
