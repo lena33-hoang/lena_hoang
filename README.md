@@ -50,7 +50,7 @@ Develop and coordinate HVAC system designs using Revit while gaining experience 
 
 <!--Section 3: Professional experience — keep this strong and specific-->
 <details>
-<summary><strong style="font-size:1.5em;">PROFESSIONAL EXPERIENCE</strong></summary>
+<summary><strong style="font-size:1.5em;">PROFESSIONAL EXPERIENCES</strong></summary>
 
 <p>
 <strong>HDR Architecture & Engineering Inc.</strong><br>
@@ -64,7 +64,7 @@ Designed HVAC systems using Revit and collaborated with multidisciplinary teams 
 </p>
 
 <p>
-<a href="{{ '/HDR' | relative_url }}">View Project →</a>
+<a href="{{ '/HDR' | relative_url }}">View More →</a>
 </p>
 
 <hr>
@@ -81,7 +81,7 @@ Conducted computational research on orbital debris dynamics and developed simula
 </p>
 
 <p>
-<a href="{{ '/XDLab' | relative_url }}">View Project →</a>
+<a href="{{ '/XDLab' | relative_url }}">View More →</a>
 </p>
 
 <hr>
@@ -98,14 +98,14 @@ Provided technical support and managed library resources while assisting student
 </p>
 
 <p>
-<a href="{{ '/HuntLib' | relative_url }}">View Project →</a>
+<a href="{{ '/HuntLib' | relative_url }}">View More →</a>
 </p>
 
 </details>
 <!--Section 2: List 3-4 key projects-->
 
 <details>
-<summary><strong style="font-size:1.5em;">MY COURSEWORK PROJECTS</strong></summary>
+<summary><strong style="font-size:1.5em;">MY ENGINEERING PROJECTS</strong></summary>
 
 <p><em>A selection of engineering projects that demonstrate my experience in mechanical design, manufacturing, CAD, and embedded systems.</em></p>
 
@@ -230,7 +230,7 @@ Awarded for academic excellence and involvement in the mechanical engineering co
 ---
 ## CONTACT DETAILS
 
-*Let's connect!I'm always excited to discuss opportunities in mechanical engineering, robotics, aerospace systems, and research!*
+*Let's connect! I'm always excited to discuss opportunities in mechanical engineering, robotics, aerospace systems, and research!*
 <table>
   <tbody>
     <tr>
