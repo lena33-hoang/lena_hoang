@@ -226,9 +226,11 @@ Awarded for academic excellence and involvement in the mechanical engineering co
 
 </details>
 
+
+---
 ## CONTACT DETAILS
 
-*Let's connect — I'm always excited to discuss opportunities in mechanical engineering, robotics, aerospace systems, and research!*
+*Let's connect!I'm always excited to discuss opportunities in mechanical engineering, robotics, aerospace systems, and research!*
 <table>
   <tbody>
     <tr>
