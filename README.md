@@ -57,7 +57,7 @@ Develop and coordinate HVAC system designs using Revit while gaining experience 
 <em>Mechanical Engineering Intern | May 2026 – August 2026</em>
 </p>
 
-<img src="assets/images/HDR_logo.png" width="160">
+<img src="HDR logo.png" width="160">
 
 <p>
 Designed HVAC systems using Revit and collaborated with multidisciplinary teams to develop Building Information Models (BIM) for commercial building projects.
@@ -74,7 +74,7 @@ Designed HVAC systems using Revit and collaborated with multidisciplinary teams 
 <em>Undergraduate Researcher | September 2025 – May 2026</em>
 </p>
 
-<img src="assets/images/XDLab_logo.png" width="160">
+<img src="XDLab Logo.png" width="160">
 
 <p>
 Conducted computational research on orbital debris dynamics and developed simulation tools for the Yarkovsky Effect Project.
@@ -91,7 +91,7 @@ Conducted computational research on orbital debris dynamics and developed simula
 <em>Library Technician | March 2025 – Present</em>
 </p>
 
-<img src="assets/images/HuntLib_logo.png" width="160">
+<img src="HuntLib logo.png" width="160">
 
 <p>
 Provided technical support and managed library resources while assisting students and faculty.
