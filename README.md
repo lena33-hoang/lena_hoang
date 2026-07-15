@@ -199,7 +199,18 @@ Awarded by the American Society of Mechanical Engineers.
 </p>
 
 <p>
-<a href="ASME_Award_26.pdf" target="_blank">📄 View Award Letter</a>
+<a href="ASME_Award_26.pdf" target="_blank">🏆 View Award Letter</a>
+</p>
+
+<hr>
+
+<p>
+🎓 <strong>Charles River Associate All-Access Scholarship</strong><br>
+Awarded by the Charles River Associate for 12 deserving students in the US and UK.
+</p>
+
+<p>
+<a href="Charles River Scholarship .png" target="_blank">🏆 View Award Letter</a>
 </p>
 
 <hr>
@@ -221,7 +232,7 @@ Awarded by the American Society of Mechanical Engineers for academic excellence 
 </p>
 
 <p>
-<a href="ASME_HanleyFoundation_25.pdf" target="_blank">📄 View Award Letter</a>
+<a href="ASME_HanleyFoundation_25.pdf" target="_blank">🏆 View Award Letter</a>
 </p>
 
 </details>
