@@ -194,7 +194,7 @@ Awarded by the National STEM Excellence Foundation for outstanding academic achi
 <hr>
 
 <p>
-🎓 <strong>ASME International Gas Turbine Institute (IGTI) Foundation Scholarship</strong><br>
+🎓 <strong>ASME International Gas Turbine Institute (IGTI) and Foundation Scholarship</strong><br>
 Awarded by the American Society of Mechanical Engineers.
 </p>
 
