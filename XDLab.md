@@ -47,24 +47,9 @@ Keep it personal but professional.
 <hr>
 
 <p align="center">
-
-<a href="{{ '/Library' | relative_url }}"
-style="padding:8px 16px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">
-← Previous
-</a>
-
-&nbsp;
-
-<a href="{{ '/' | relative_url }}"
-style="padding:8px 16px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">
-🏠 Portfolio
-</a>
-
-&nbsp;
-
-<a href="{{ '/XDLab' | relative_url }}"
-style="padding:8px 16px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">
-Next →
-</a>
-
+<a href="{{ '/Library' | relative_url }}">← Previous Experience</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="{{ '/' | relative_url }}">Back to Portfolio</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="{{ '/XDLab' | relative_url }}">Next Experience →</a>
 </p>
