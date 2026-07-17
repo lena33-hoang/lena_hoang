@@ -44,8 +44,12 @@ How did this experience influence your career goals?
 
 Keep it personal but professional.
 
-← Previous Experience
+<hr>
 
-Back to Portfolio
-
-Next Experience →
+<p align="center">
+<a href="{{ '/Library' | relative_url }}">← Previous Experience</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="{{ '/' | relative_url }}">Back to Portfolio</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="{{ '/XDLab' | relative_url }}">Next Experience →</a>
+</p>
