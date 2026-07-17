@@ -47,7 +47,7 @@ Keep it personal but professional.
 <hr>
 
 <p align="center">
-<a href="{{ '/Library' | relative_url }}">← Previous Experience</a>
+
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="{{ '/' | relative_url }}">Back to Portfolio</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
