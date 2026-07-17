@@ -48,7 +48,7 @@ Keep it personal but professional.
 
 <p align="center">
 
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="{{ '/' | relative_url }}">Back to Portfolio</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="{{ '/XDLab' | relative_url }}">Next Experience →</a>
