@@ -45,7 +45,6 @@ How did this experience influence your career goals?
 Keep it personal but professional.
 
 <hr>
- 
 <p align="center">
 <a href="{{ '/Library' | relative_url }}">← Previous Experience</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
