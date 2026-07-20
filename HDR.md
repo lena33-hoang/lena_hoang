@@ -12,25 +12,31 @@
 HDR is a global employee-owned architecture, engineering, and consulting firm that specializes in designing infrastructure and building systems for clients across the public and private sectors. The company delivers projects in areas including transportation, healthcare, education, water resources, and commercial buildings, with an emphasis on sustainability and innovative design. Through multidisciplinary collaboration, HDR integrates architecture, engineering, environmental, and construction services to develop solutions for complex infrastructure challenges. Working at HDR provided me with the opportunity to experience how large-scale engineering projects are planned, coordinated, and executed in a professional environment.
 
 
-**My Responsibilities**
+**MY RESPONSIBILITIES**
 
-- HVAC System Design
-Assisted in designing and developing HVAC systems for commercial building projects by creating and modifying mechanical layouts that met project requirements and engineering standards.
+- **HVAC System Design**:
+  
+   Assisted in designing and developing HVAC systems for commercial building projects by creating and modifying mechanical layouts that met project requirements and engineering standards.
 
-- Building Information Modeling (BIM)
-Developed and maintained Revit models to support Building Information Modeling (BIM), ensuring accurate coordination between mechanical, architectural, structural, and electrical disciplines.
+- **Building Information Modeling (BIM)**:
+  
+   Developed and maintained Revit models to support Building Information Modeling (BIM), ensuring accurate coordination between mechanical, architectural, structural, and electrical disciplines.
 
-- Engineering Documentation
-Prepared and updated engineering drawings, schedules, and project documentation while maintaining consistency with company standards and project specifications.
+- **Engineering Documentation**:
+  
+   Prepared and updated engineering drawings, schedules, and project documentation while maintaining consistency with company standards and project specifications.
 
-- Design Coordination
-Collaborated with multidisciplinary teams to identify and resolve design conflicts, helping integrate mechanical systems efficiently within the overall building design.
+- **Design Coordination**:
+  
+   Collaborated with multidisciplinary teams to identify and resolve design conflicts, helping integrate mechanical systems efficiently within the overall building design.
 
-- Quality Assurance
-Reviewed Revit models and engineering drawings to verify design accuracy, maintain quality standards, and support the overall design review process.
+- **Quality Assurance**:
+  
+   Reviewed Revit models and engineering drawings to verify design accuracy, maintain quality standards, and support the overall design review process.
 
-- Professional Collaboration
-Participated in project meetings, communicated with engineers across multiple disciplines, and contributed to a collaborative engineering environment throughout various stages of project development.
+- **Professional Collaboration**:
+  
+   Participated in project meetings, communicated with engineers across multiple disciplines, and contributed to a collaborative engineering environment throughout various stages of project development.
 
 **FEATURED PROJECTS**
 
