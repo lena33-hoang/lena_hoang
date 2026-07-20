@@ -5,7 +5,7 @@
 # HDR Architecture & Engineering #
 ## Mechanical Engineering Intern
 *May 2026 – August 2026*
----
+
 
 **ABOUT THE COMPANY**
 
