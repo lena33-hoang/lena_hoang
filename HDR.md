@@ -11,11 +11,6 @@
 
 HDR is a global employee-owned architecture, engineering, and consulting firm that specializes in designing infrastructure and building systems for clients across the public and private sectors. The company delivers projects in areas including transportation, healthcare, education, water resources, and commercial buildings, with an emphasis on sustainability and innovative design. Through multidisciplinary collaboration, HDR integrates architecture, engineering, environmental, and construction services to develop solutions for complex infrastructure challenges. Working at HDR provided me with the opportunity to experience how large-scale engineering projects are planned, coordinated, and executed in a professional environment.
 
-Explain:
-
-What the company does
-What industry it serves
-What team you worked with
 
 **MY RESPONSIBILITIES**
 
