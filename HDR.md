@@ -6,6 +6,9 @@
 ## Mechanical Engineering Intern
 *May 2026 – August 2026*
 
+<p align="center">
+<img src="HDR photo.png" width="180">
+</p>
 
 **ABOUT THE COMPANY**
 
