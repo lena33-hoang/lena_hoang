@@ -1,4 +1,14 @@
-**ABOUT THE COMPANY**
+<p align="center">
+<img src="XDLab Logo.png" width="180">
+</p>
+
+# XDLab #
+## Undergraduate Researcher
+*September 2025 – May 2026*
+
+
+
+**ABOUT THE LAB**
 
 A short paragraph (3–5 sentences).
 
