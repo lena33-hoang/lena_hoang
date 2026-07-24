@@ -16,7 +16,7 @@
 HDR is a global employee-owned architecture, engineering, and consulting firm that specializes in designing infrastructure and building systems for clients across the public and private sectors. The company delivers projects in areas including transportation, healthcare, education, water resources, and commercial buildings, with an emphasis on sustainability and innovative design. Through multidisciplinary collaboration, HDR integrates architecture, engineering, environmental, and construction services to develop solutions for complex infrastructure challenges. Working at HDR provided me with the opportunity to experience how large-scale engineering projects are planned, coordinated, and executed in a professional environment.
 
 
-##MY RESPONSIBILITIES##
+## MY RESPONSIBILITIES ##
 
 - **HVAC System Design**:
    Assisted in designing and developing HVAC systems for commercial building projects by creating and modifying mechanical layouts that met project requirements and engineering standards.
@@ -36,13 +36,13 @@ HDR is a global employee-owned architecture, engineering, and consulting firm th
 - **Professional Collaboration**:
    Participated in project meetings, communicated with engineers across multiple disciplines, and contributed to a collaborative engineering environment throughout various stages of project development.
 
-##FEATURED PROJECTS##
+## FEATURED PROJECT ##
 
 **Project: U.S. Coast Guard Academy (USCGA)**  
 
 ---
 
-#### Project Overview
+### Project Overview
 
 During my internship at HDR, I contributed to the mechanical design and Building Information Modeling (BIM) development for a project at the U.S. Coast Guard Academy (USCGA). My work focused on the design and documentation of HVAC air distribution systems, including supply and return diffuser layouts, duct sizing, ductwork routing, and mechanical system tagging.
 
@@ -50,7 +50,7 @@ The project provided an opportunity to apply classroom knowledge of fluid mechan
 
 ---
 
-#### The Engineering Challenge
+### The Engineering Challenge
 
 Designing an effective HVAC system requires more than simply placing ducts and diffusers on a floor plan. The system must distribute conditioned air effectively while fitting within the available building space and coordinating with other architectural and engineering systems.
 
@@ -67,9 +67,9 @@ The challenge was to develop a mechanical system that was both technically appro
 
 ---
 
-#### My Contribution
+### My Contribution
 
-##### 1. Supply & Return Diffuser Layout
+#### 1. Supply & Return Diffuser Layout
 
 I assisted with developing the supply and return diffuser layouts for designated spaces within the building. I placed and adjusted diffusers within the Revit model while considering room layouts, ceiling conditions, and the overall air distribution strategy.
 
@@ -83,7 +83,7 @@ The layout of air terminals was an important part of ensuring that conditioned a
 
 ---
 
-##### 2. Duct Sizing
+#### 2. Duct Sizing
 
 I supported the calculation and selection of duct sizes based on the required airflow and system design considerations. This process helped determine appropriate duct dimensions for different sections of the HVAC system while maintaining consistency with the overall design.
 
@@ -97,7 +97,7 @@ I used engineering calculations and Excel-based tools to support the duct sizing
 
 ---
 
-##### 3. Ductwork Routing
+#### 3. Ductwork Routing
 
 I assisted with designing and refining ductwork routes throughout the building. This required considering available ceiling and building space while maintaining connections between the main ductwork, branch ducts, and air terminals.
 
@@ -111,7 +111,7 @@ Working within the Revit environment allowed me to visualize the system in relat
 
 ---
 
-##### 4. HVAC Tagging & Documentation
+#### 4. HVAC Tagging & Documentation
 
 I also contributed to the tagging and documentation of HVAC components within the Revit model. Accurate tags and annotations help communicate design information clearly to engineers, architects, contractors, and other project stakeholders.
 
@@ -125,7 +125,7 @@ This work strengthened my understanding of how a well-organized BIM model suppor
 
 ---
 
-##### 5. BIM Coordination
+#### 5. BIM Coordination
 
 Throughout the project, I worked within the multidisciplinary BIM environment to support coordination between mechanical systems and other building elements. This required reviewing the model and making adjustments to help ensure that HVAC components were properly integrated into the overall building design.
 
@@ -135,35 +135,12 @@ Throughout the project, I worked within the multidisciplinary BIM environment to
 
 *Revit model demonstrating the integration of HVAC systems within the overall building environment.*
 
----
-
-#### Engineering Workflow
-
-My contribution to the project followed a workflow that connected engineering calculations with digital modeling and documentation:
-
-**Air Distribution Requirements**  
-↓  
-**Supply & Return Diffuser Layout**  
-↓  
-**Duct Sizing & Calculations**  
-↓  
-**Ductwork Routing**  
-↓  
-**BIM Coordination**  
-↓  
-**HVAC Tagging & Documentation**
-
-This experience helped me understand how individual engineering tasks contribute to a larger multidisciplinary design process.
 
 ---
 
-#### Tools Used
+### Tools Used
 
-**Revit** • **AutoCAD** • **Microsoft Excel**
-
-#### Skills Demonstrated
-
-**HVAC System Design** • **Air Distribution** • **Duct Sizing** • **Ductwork Routing** • **BIM Coordination** • **Revit Modeling** • **Engineering Documentation** • **Multidisciplinary Collaboration**
+**Revit** 
 
 ---
 
