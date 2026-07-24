@@ -67,101 +67,113 @@ The challenge was to develop a mechanical system that was both technically appro
 
 ---
 
-### My Contribution
+### MY CONTRIBUTION
 
-#### 1. Supply & Return Diffuser Layout
+#### 01/ Supply & Return Diffuser Design
 
-I assisted with developing the supply and return diffuser layouts for designated spaces within the building. I placed and adjusted diffusers within the Revit model while considering room layouts, ceiling conditions, and the overall air distribution strategy.
+I assisted with designing the supply and return air distribution layouts for different spaces throughout the USCGA project. My approach was based on fundamental HVAC and fluid mechanics principles, including **airflow distribution, room function, ventilation requirements, and maintaining appropriate air circulation** within occupied spaces.
 
-The layout of air terminals was an important part of ensuring that conditioned air could be effectively distributed throughout occupied spaces while maintaining a coordinated mechanical design.
+Different room types required different approaches to air distribution:
+
+- **Classrooms:** Assisted with the layout of **PRICE square supply diffusers** to distribute conditioned air evenly throughout occupied teaching spaces. Return air locations were coordinated to support effective air circulation and maintain a balanced airflow pattern.
+
+- **Faculty Offices:** Assisted with the placement of **PRICE square supply diffusers** while considering room size, occupancy, and the location of furniture and other architectural elements. The diffuser layout was coordinated with the ceiling plan and surrounding building systems.
+
+- **Laboratories:** Supported the HVAC layout for laboratory spaces, where ventilation and exhaust requirements differed from typical occupied rooms. **Exhaust diffusers** were incorporated to support the removal of air from laboratory spaces, with the overall system coordinated with the supply air distribution.
+
+When developing these layouts, I considered the relationship between **supply and return/exhaust locations**, room geometry, airflow patterns, and the need to avoid conflicts with architectural elements and other MEP systems.
 
 <p align="center">
 <img src="YOUR-DIFFUSER-LAYOUT-IMAGE.png" width="800">
 </p>
 
-*Example of the supply and return diffuser layout developed within the Revit model.*
+*Supply and return air distribution layout developed within the Revit model.*
 
 ---
 
-#### 2. Duct Sizing
+#### 02/ Ductwork Sizing
 
-I supported the calculation and selection of duct sizes based on the required airflow and system design considerations. This process helped determine appropriate duct dimensions for different sections of the HVAC system while maintaining consistency with the overall design.
+I assisted with sizing ductwork based on the airflow requirements established for different sections of the HVAC system. I used the **DuctSizer application** to calculate appropriate duct dimensions based on the initial design conditions and required airflow.
 
-I used engineering calculations and Excel-based tools to support the duct sizing process and then applied the resulting dimensions within the Revit model.
+The sizing process involved entering the initial system parameters and evaluating the resulting duct dimensions to support the development of the HVAC system. The calculated duct sizes were then incorporated into the Revit model as part of the overall ductwork design.
+
+This process helped me understand the connection between **airflow requirements, duct dimensions, and pressure considerations** and how these engineering calculations translate into an actual building system.
 
 <p align="center">
-<img src="YOUR-DUCT-SIZING-IMAGE.png" width="800">
+<img src="YOUR-DUCT-SIZING-IMAGE.png" width="750">
 </p>
 
-*Duct sizing calculations and design information used to support the HVAC system layout.*
+*Duct sizing calculations performed using the DuctSizer application to determine appropriate duct dimensions.*
 
 ---
 
-#### 3. Ductwork Routing
+#### 03/ Ductwork Routing
 
-I assisted with designing and refining ductwork routes throughout the building. This required considering available ceiling and building space while maintaining connections between the main ductwork, branch ducts, and air terminals.
+After establishing duct sizes and air terminal locations, I assisted with developing and refining ductwork routes throughout the building.
 
-Working within the Revit environment allowed me to visualize the system in relation to the surrounding building elements and adjust the routing when necessary to improve coordination.
+The routing process required considering:
+
+- Available ceiling and plenum space
+- Duct dimensions
+- Connections between main and branch ductwork
+- Supply and return air terminal locations
+- Coordination with architectural elements
+- Potential conflicts with structural and other MEP systems
+
+I worked within the Revit model to adjust ductwork routes and support an organized HVAC layout that connected the air-handling system to the designated supply, return, and exhaust points.
 
 <p align="center">
 <img src="YOUR-DUCTWORK-ROUTING-IMAGE.png" width="800">
 </p>
 
-*Revit view showing the coordinated HVAC ductwork routing.*
+*HVAC ductwork routing developed and coordinated within the Revit model.*
 
 ---
 
-#### 4. HVAC Tagging & Documentation
+#### 04/ HVAC Tagging & Engineering Documentation
 
-I also contributed to the tagging and documentation of HVAC components within the Revit model. Accurate tags and annotations help communicate design information clearly to engineers, architects, contractors, and other project stakeholders.
+I contributed to the tagging and documentation of HVAC components within the Revit model. This included organizing and identifying mechanical system components so that design information could be communicated clearly through the project documentation.
 
-This work strengthened my understanding of how a well-organized BIM model supports not only design but also technical communication and construction documentation.
+Accurate tagging was important for maintaining consistency between the Revit model and engineering drawings and for allowing other members of the project team to quickly identify HVAC components and system information.
 
 <p align="center">
-<img src="YOUR-HVAC-TAGGING-IMAGE.png" width="800">
+<img src="YOUR-HVAC-TAGGING-IMAGE.png" width="750">
 </p>
 
-*HVAC components and tags within the Revit model used to support clear engineering documentation.*
+*HVAC components and tags within the Revit model.*
 
 ---
 
-#### 5. BIM Coordination
+#### 05/ BIM Coordination
 
-Throughout the project, I worked within the multidisciplinary BIM environment to support coordination between mechanical systems and other building elements. This required reviewing the model and making adjustments to help ensure that HVAC components were properly integrated into the overall building design.
+I worked within the multidisciplinary BIM environment to support coordination between the HVAC system and other building disciplines. By reviewing the Revit model and adjusting mechanical components, I helped identify potential spatial conflicts and improve the integration of HVAC systems within the building.
+
+This process demonstrated how mechanical design decisions are influenced by the surrounding architectural and structural environment and how BIM allows engineers from different disciplines to coordinate their work within a shared digital model.
 
 <p align="center">
 <img src="YOUR-BIM-COORDINATION-IMAGE.png" width="800">
 </p>
 
-*Revit model demonstrating the integration of HVAC systems within the overall building environment.*
-
+*3D BIM view showing the integration and coordination of HVAC systems within the building.*
 
 ---
 
-### Tools Used
 
-**Revit** 
+### TOOLS & SOFTWARE
+
+**Revit** • **DuctSizer** • **Microsoft Excel**
+
+### SKILLS DEMONSTRATED
+
+**HVAC System Design** • **Air Distribution** • **Duct Sizing** • **Ductwork Routing** • **BIM Coordination** • **Revit Modeling** • **Engineering Documentation** • **Multidisciplinary Collaboration**
 
 ---
 
 ### WHAT I LEARNED
 
-My experience at HDR gave me a new perspective on how mechanical engineering is applied beyond the classroom. I learned that designing a successful HVAC system requires more than understanding individual components—it requires careful coordination, attention to detail, and an understanding of how mechanical systems interact with the architecture and structure of an entire building.
-
-Working with Revit also showed me how BIM can connect different engineering disciplines and make complex building systems easier to visualize, coordinate, and document. I became more comfortable working within a professional engineering workflow and learned how small design decisions, such as diffuser placement or duct routing, can affect the larger system.
-
-One of the biggest challenges was adapting to the complexity of real-world projects, where designs must balance engineering requirements with spatial constraints and coordination between multiple disciplines. I am proud of how I developed my technical skills while learning to approach engineering problems with greater attention to both detail and the bigger picture.
-
-This internship expanded my perspective beyond my primary interest in robotics and mechanical design and introduced me to the broader applications of mechanical engineering in the built environment. It strengthened my interest in designing practical, interconnected systems and gave me valuable experience that I hope to carry into future work in mechanical engineering, robotics, aerospace, and advanced engineering systems.
+My experience at HDR showed me how HVAC theory and engineering calculations translate into real-world building systems. I learned that effective mechanical design requires balancing airflow requirements, spatial constraints, system coordination, and clear documentation. Working with Revit and multidisciplinary teams also strengthened my understanding of BIM and gave me a broader perspective on how mechanical engineering contributes to the design of complex buildings.
 
 <hr>
-
-<p align="center">
-
-<a href="{{ '/' | relative_url }}">← Back to Portfolio</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="{{ '/XDLab' | relative_url }}">Next Experience →</a>
-
 </p>
 <hr>
 
