@@ -94,7 +94,7 @@ The sizing process involved entering the initial system parameters and evaluatin
 This process helped me understand the connection between **airflow requirements, duct dimensions, and pressure considerations** and how these engineering calculations translate into an actual building system.
 
 <p align="center">
-<img src="YOUR-DUCT-SIZING-IMAGE.png" width="750">
+<img src="DuctSizer Tool.png" width="750">
 </p>
 
 *Duct sizing calculations performed using the DuctSizer application to determine appropriate duct dimensions.*
