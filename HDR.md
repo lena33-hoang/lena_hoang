@@ -131,7 +131,7 @@ I contributed to the tagging and documentation of HVAC components within the Rev
 Accurate tagging was important for maintaining consistency between the Revit model and engineering drawings and for allowing other members of the project team to quickly identify HVAC components and system information.
 
 <p align="center">
-<img src="YOUR-HVAC-TAGGING-IMAGE.png" width="750">
+<img src="duct tag.png" width="750">
 </p>
 
 *HVAC components and tags within the Revit model.*
