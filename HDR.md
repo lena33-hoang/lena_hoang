@@ -144,11 +144,6 @@ I worked within the multidisciplinary BIM environment to support coordination be
 
 This process demonstrated how mechanical design decisions are influenced by the surrounding architectural and structural environment and how BIM allows engineers from different disciplines to coordinate their work within a shared digital model.
 
-<p align="center">
-<img src="YOUR-BIM-COORDINATION-IMAGE.png" width="800">
-</p>
-
-*3D BIM view showing the integration and coordination of HVAC systems within the building.*
 
 ---
 
