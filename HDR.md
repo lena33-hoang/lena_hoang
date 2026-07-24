@@ -117,10 +117,10 @@ The routing process required considering:
 I worked within the Revit model to adjust ductwork routes and support an organized HVAC layout that connected the air-handling system to the designated supply, return, and exhaust points.
 
 <p align="center">
-<img src="YOUR-DUCTWORK-ROUTING-IMAGE.png" width="800">
+<img src="Ductwork route.png" width="800">
 </p>
 
-*HVAC ductwork routing developed and coordinated within the Revit model.*
+*Example of my work at HVAC ductwork routing developed for the 1st floor and coordinated within the Revit model.*
 
 ---
 
