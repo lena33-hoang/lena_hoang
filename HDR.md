@@ -75,19 +75,13 @@ I assisted with designing the supply and return air distribution layouts for dif
 
 Different room types required different approaches to air distribution:
 
-- **Classrooms:** Assisted with the layout of **PRICE square supply diffusers** to distribute conditioned air evenly throughout occupied teaching spaces. Return air locations were coordinated to support effective air circulation and maintain a balanced airflow pattern.
+- **Classrooms:** Assisted with the layout of PRICE square supply/return diffusers to distribute conditioned air evenly throughout occupied teaching spaces. Return air locations were coordinated to support effective air circulation and maintain a balanced airflow pattern.
 
-- **Faculty Offices:** Assisted with the placement of **PRICE square supply diffusers** while considering room size, occupancy, and the location of furniture and other architectural elements. The diffuser layout was coordinated with the ceiling plan and surrounding building systems.
+- **Faculty Offices:** Assisted with the placement of PRICE square supply/return diffusers while considering room size, occupancy, and the location of furniture and other architectural elements. The diffuser layout was coordinated with the ceiling plan and surrounding building systems.
 
-- **Laboratories:** Supported the HVAC layout for laboratory spaces, where ventilation and exhaust requirements differed from typical occupied rooms. **Exhaust diffusers** were incorporated to support the removal of air from laboratory spaces, with the overall system coordinated with the supply air distribution.
+- **Laboratories:** Supported the HVAC layout for laboratory spaces, where ventilation and exhaust requirements differed from typical occupied rooms. Exhaust diffusers were incorporated to support the removal of air from laboratory spaces, with the overall system coordinated with the supply air distribution.
 
-When developing these layouts, I considered the relationship between **supply and return/exhaust locations**, room geometry, airflow patterns, and the need to avoid conflicts with architectural elements and other MEP systems.
-
-<p align="center">
-<img src="YOUR-DIFFUSER-LAYOUT-IMAGE.png" width="800">
-</p>
-
-*Supply and return air distribution layout developed within the Revit model.*
+When developing these layouts, I considered the relationship between supply and return/exhaust locations, room geometry, airflow patterns, and the need to avoid conflicts with architectural elements and other MEP systems.
 
 ---
 
