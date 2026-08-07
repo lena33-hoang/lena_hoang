@@ -157,18 +157,13 @@ This process demonstrated how mechanical design decisions are influenced by the 
 
 ### TOOLS & SOFTWARE
 
-**Revit** • **DuctSizer** • **Microsoft Excel**
+Revit, DuctSizer, Microsoft Excel
 
 ### SKILLS DEMONSTRATED
 
-**HVAC System Design** • **Air Distribution** • **Duct Sizing** • **Ductwork Routing** • **BIM Coordination** • **Revit Modeling** • **Engineering Documentation** • **Multidisciplinary Collaboration**
+HVAC System Design, Air Distribution, Duct Sizing, Ductwork Routing, BIM Coordination, Revit Modeling, Engineering Documentation, Multidisciplinary Collaboration
 
 ---
-
-### WHAT I LEARNED
-
-My experience at HDR showed me how HVAC theory and engineering calculations translate into real-world building systems. I learned that effective mechanical design requires balancing airflow requirements, spatial constraints, system coordination, and clear documentation. Working with Revit and multidisciplinary teams also strengthened my understanding of BIM and gave me a broader perspective on how mechanical engineering contributes to the design of complex buildings.
-
 
 <hr>
 
