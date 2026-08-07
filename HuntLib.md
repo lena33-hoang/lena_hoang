@@ -1,50 +1,106 @@
-**ABOUT THE COMPANY**
+<p align="center">
+<img src="HuntLib logo.png" width="180">
+</p>
 
-A short paragraph (3–5 sentences).
+# Hunt Library #
+## Library Technician
+*March 2025 – Present*
 
-Explain:
+---
 
-What the company does
-What industry it serves
-What team you worked with
+## ABOUT THE HUNT LIBRARY
 
-**MY RESPONSIBILITIES**
+The Hunt Library serves the Embry-Riddle Aeronautical University community by providing students and faculty with access to academic resources, research materials, technology, and collaborative learning spaces.
 
-This file is to showcase my work at HDR
-This file is to showcase my work at HDR
-This file is to showcase my work at HDR
-This file is to showcase my work at HDR
+Working at the library has given me experience in a professional campus environment while developing skills in organization, communication, customer service, and problem-solving.
 
-**FEATURED PROJECTS**
+---
 
-Project Name
+## MY ROLE
 
-Brief description
+As a **Library Technician**, I support the day-to-day operations of Hunt Library and help maintain an organized and accessible environment for students, faculty, and visitors.
 
-What problem were you solving?
+My responsibilities require attention to detail, reliability, and the ability to communicate effectively with people from different backgrounds.
 
-What was your contribution?
+---
 
-Tools Used:
-Revit • AutoCAD • Excel
+## MY RESPONSIBILITIES
 
-**WHAT I LEARNED**
+### **01/ Library Operations**
 
-This is one of the most valuable sections because it shows growth.
+Assist with daily library operations to ensure resources, workspaces, and facilities remain organized and accessible.
 
-Instead of saying "I learned Revit," reflect on how the experience changed your understanding of engineering.
+- Support opening and closing procedures.
+- Maintain organized library spaces.
+- Assist with routine operational tasks.
+- Help ensure library policies and procedures are followed.
 
-A short paragraph is enough.
+---
 
-End with a short reflection:
+### **02/ Student & Patron Support**
 
-What challenged you?
-What are you proud of?
-How did this experience influence your career goals?
+Provide assistance to students and library visitors with general questions and requests.
 
-Keep it personal but professional.
+- Help patrons navigate library resources and services.
+- Answer routine questions and direct students to appropriate resources.
+- Assist with locating materials and using library facilities.
+- Communicate professionally with students, faculty, and visitors.
 
-<hr>
+---
+
+### **03/ Materials & Resource Management**
+
+Assist with the organization and handling of library materials.
+
+- Sort and organize library materials.
+- Assist with shelving and maintaining accurate organization.
+- Help maintain the condition and accessibility of resources.
+- Support inventory and other resource-management tasks.
+
+---
+
+### **04/ Technology & Equipment Support**
+
+Assist patrons with basic library technology and equipment.
+
+- Help students use library equipment and technology.
+- Troubleshoot basic operational issues.
+- Direct more complex technical issues to the appropriate staff.
+- Help maintain an accessible and functional workspace.
+
+---
+
+### **05/ Team Collaboration**
+
+Work alongside library staff to complete daily tasks and support library operations.
+
+- Communicate with team members regarding ongoing tasks.
+- Assist coworkers when additional support is needed.
+- Adapt to changing priorities throughout the workday.
+- Contribute to maintaining a welcoming and productive environment.
+
+---
+
+## SKILLS DEVELOPED
+
+Through this position, I have strengthened several skills that transfer directly into engineering and professional environments:
+
+**Communication**  
+Interacting with students, faculty, visitors, and coworkers has strengthened my ability to communicate clearly and professionally.
+
+**Organization**  
+Managing materials and daily operational tasks requires consistent attention to detail and organization.
+
+**Problem-Solving**  
+Helping patrons resolve questions and basic technical issues requires identifying problems and finding appropriate solutions.
+
+**Teamwork**  
+Working with library staff has taught me how to coordinate responsibilities and contribute effectively within a team.
+
+**Professional Responsibility**  
+Balancing a campus job with my academic and research responsibilities has strengthened my time management, reliability, and ability to manage competing priorities.
+
+---
  
 <p align="center">
 <a href="{{ '/XDLab' | relative_url }}">← Previous Experience</a>
