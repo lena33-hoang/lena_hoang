@@ -21,15 +21,11 @@ XDLab is an undergraduate research environment focused on developing practical s
 **Research Focus:** Yarkovsky Effect, Small-Body Dynamics, Circumlunar Environments, Computational Modeling
 
 <img src="Yarkovsky Effect.png" width="800">
----
+
 
 ### National Conference on Undergraduate Research (NCUR) 2026
 
-## Undergraduate Research Presenter
-*2026*
-
-<p align="center">
-<img src="NCUR.png" width="800">
+<img src="NCUR .png" width="800">
 </p>
 
 *Embry-Riddle Team at NCUR 2026*
