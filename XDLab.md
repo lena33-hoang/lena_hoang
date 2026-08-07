@@ -26,7 +26,6 @@ XDLab is an undergraduate research environment focused on developing practical s
 ### National Conference on Undergraduate Research (NCUR) 2026
 
 <img src="NCUR .png" width="800">
-</p>
 
 *Embry-Riddle Team at NCUR 2026*
 
