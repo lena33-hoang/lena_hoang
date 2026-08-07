@@ -120,7 +120,14 @@ I worked within the Revit model to adjust ductwork routes and support an organiz
 <img src="Ductwork route.png" width="800">
 </p>
 
-*Example of my work at HVAC ductwork routing developed for the 1st floor and coordinated within the Revit model.*
+*My work at HVAC ductwork routing developed for the 1st floor.*
+
+<p align="center">
+<img src="Ductwork route 2nd.png" width="800">
+</p>
+
+*My work at HVAC ductwork routing developed for the 2nd floor.*
+
 
 ---
 
@@ -162,8 +169,7 @@ This process demonstrated how mechanical design decisions are influenced by the 
 
 My experience at HDR showed me how HVAC theory and engineering calculations translate into real-world building systems. I learned that effective mechanical design requires balancing airflow requirements, spatial constraints, system coordination, and clear documentation. Working with Revit and multidisciplinary teams also strengthened my understanding of BIM and gave me a broader perspective on how mechanical engineering contributes to the design of complex buildings.
 
-<hr>
-</p>
+
 <hr>
 
 <p align="center">
