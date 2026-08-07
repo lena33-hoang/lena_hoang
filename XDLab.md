@@ -45,21 +45,7 @@ Although the effect is small, its influence can accumulate over sufficiently lon
 
 ---
 
-### RESEARCH APPROACH
-
-Our research followed two primary approaches:
-
-**1. Literature Review**
-
-We reviewed existing research on the Yarkovsky and Yarkovskyâ€“Schach effects, thermal radiation, orbital perturbations, and the long-term evolution of small bodies and space debris.
-
-**2. Computational Modeling**
-
-We began developing a computational simulation to investigate how orbital parameters change under the influence of the Yarkovsky Effect. We initially used **asteroid Eros** as a test case before applying the model to environments relevant to future circumlunar studies.
-
----
-
-## MY CONTRIBUTION
+## MY WORK
 
 ### 01/ Literature Review & Research Analysis
 
@@ -70,7 +56,7 @@ I focused on understanding how variables such as **obliquity, rotation period, t
 One important observation from the literature was that Yarkovsky-driven orbital deviations can be relatively small over short periods but become more meaningful when examined across much longer timescales.
 
 <p align="center">
-<img src="FIGURE-1-YARKOVSKY-SCHACH.png" width="800">
+<img src="FIGURE-1.png" width="800">
 </p>
 
 *Time evolution of space-debris orbits influenced by solar effects. Adapted from the literature reviewed during the study.*
@@ -86,7 +72,7 @@ One area of our investigation was the relationship between **obliquity**, or the
 The literature showed that different orientations can produce different magnitudes of orbital deviation. This motivated our interest in investigating how changes in orientation could influence the Yarkovsky Effect within our own simulation.
 
 <p align="center">
-<img src="FIGURE-2-OBLIQUITY.png" width="800">
+<img src="FIGURE-2.png" width="800">
 </p>
 
 *Orbital evolution under different obliquity conditions based on published research.*
@@ -100,7 +86,7 @@ The results motivated further investigation into how other physical parametersâ€
 We also examined previous studies of thermal radiation effects on small rocky bodies orbiting planets and asteroids.
 
 <p align="center">
-<img src="FIGURE-3-EARTH-THERMAL.png" width="800">
+<img src="FIGURE-3.png" width="800">
 </p>
 
 *Thermal effects and secular orbital evolution for small particles orbiting Earth.*
@@ -108,7 +94,7 @@ We also examined previous studies of thermal radiation effects on small rocky bo
 For Earth-orbiting objects, gravitational forces and atmospheric drag can significantly influence orbital behavior. This led us to investigate environments where atmospheric drag is negligible.
 
 <p align="center">
-<img src="FIGURE-4-ASTEROID-IDA.png" width="800">
+<img src="FIGURE-4.png" width="800">
 </p>
 
 *Thermal effects on particles orbiting asteroid Ida.*
@@ -133,12 +119,6 @@ We built upon an existing simulator and began adapting it to investigate variabl
 - **Object characteristics**
 
 Our initial simulations focused on **asteroid Eros** as a test environment before extending the model toward lunar conditions.
-
-<p align="center">
-<img src="FIGURE-5-SIMULATION.png" width="800">
-</p>
-
-*Initial simulation results for the Yarkovsky Effect. Current implementation serves as a proof of concept.*
 
 ---
 
