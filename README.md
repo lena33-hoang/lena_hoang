@@ -125,7 +125,7 @@ Designed and fabricated a precision fixture to improve mandrel alignment accurac
 
 <p>
 <strong>Multifunctional Desk Lamp - CATIA Final Project</strong>
-
+</p>
 
 <p>
 Designed a manufacturable desk lamp assembly integrating a phone holder, storage drawer, and lighting into a single product while using CATIA V5 to validate assembly constraints and motion clearance.
