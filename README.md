@@ -100,7 +100,6 @@ Provided technical support and managed library resources while assisting student
 <p>
 <a href="{{ '/HuntLib' | relative_url }}">View More →</a>
 </p>
-
 </details>
 
 
