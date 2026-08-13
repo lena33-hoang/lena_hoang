@@ -116,38 +116,30 @@ Provided technical support and managed library resources while assisting student
 </p>
 
 Designed and fabricated a precision fixture to improve mandrel alignment accuracy during medical device production, applying GD&amp;T and tolerance stack-up analysis to meet tight positional requirements.
-</p>
+
 
 <p>
-<a href="{{ '/MandrelGuide' | relative_url }}"><strong>View Project →</strong></a>
+<a href="{{ '/Mandrel' | relative_url }}"><strong>View Project →</strong></a>
 </p>
 
 <hr>
 
 <p>
-<strong>Multifunctional Desk Lamp — CATIA Final Project</strong>
-</p>
+<strong>Multifunctional Desk Lamp - CATIA Final Project</strong>
 
-<p align="center">
-<img src="assets/desk-lamp-catia-render.png" width="500">
-</p>
 
 <p>
 Designed a manufacturable desk lamp assembly integrating a phone holder, storage drawer, and lighting into a single product while using CATIA V5 to validate assembly constraints and motion clearance.
 </p>
 
 <p>
-<a href="{{ '/DeskLamp' | relative_url }}"><strong>View Project →</strong></a>
+<a href="{{ '/Desklamp' | relative_url }}"><strong>View Project →</strong></a>
 </p>
 
 <hr>
 
 <p>
 <strong>Halloween Animatronic — Embedded Systems Project</strong>
-</p>
-
-<p align="center">
-<img src="assets/animatronic-demo-photo.jpg" width="500">
 </p>
 
 <p>
