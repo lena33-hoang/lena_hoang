@@ -112,14 +112,9 @@ Provided technical support and managed library resources while assisting student
 <hr>
 
 <p>
-<strong>Mandrel Centering Guide — Medical Manufacturing Fixture</strong>
+<strong>Mandrel Centering Guide - Medical Manufacturing Project</strong>
 </p>
 
-<p align="center">
-<img src="assets/mandrel-centering-guide-render.png" width="500">
-</p>
-
-<p>
 Designed and fabricated a precision fixture to improve mandrel alignment accuracy during medical device production, applying GD&amp;T and tolerance stack-up analysis to meet tight positional requirements.
 </p>
 
