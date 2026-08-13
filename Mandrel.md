@@ -31,9 +31,10 @@ Material identification was an important part of the redesign because the initia
 
 Physical evaluation, hardness testing, mass measurement, visual inspection, SolidWorks mass-property analysis, and consultation with a subject matter expert indicated that the component was more consistent with **anodized aluminum, potentially 6061**. 
 
-The measured specimen mass was approximately **55.6 g**, while the SolidWorks model predicted approximately **57 g**, a difference of approximately **2.5%**.
+The measured specimen mass was approximately **55.6 g**, while the SolidWorks model predicted approximately **57 g**, a difference of approximately **2.5%**
 
 Based on the material evaluation, **6061-T6 aluminum with an anodized finish** was selected for the redesigned component because it provided a practical balance of strength, machinability, weight, cost, and suitability for the application. 
+
 ---
 
 ## 02/ CAD & DESIGN
