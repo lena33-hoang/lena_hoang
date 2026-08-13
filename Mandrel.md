@@ -82,7 +82,7 @@ The redesigned component was manufactured by using CNC machine.
 The design changes were intentionally limited to modifications that could improve the component without requiring a complete redesign of the surrounding assembly.
 
 <p align="center">
-<img src="mandrel-manufactured.png" width="700">
+<img src="mandrel-manufactured.jpg" width="700">
 </p>
 
 *Manufactured Mandrel Centering Guide.*
