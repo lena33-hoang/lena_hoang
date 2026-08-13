@@ -102,7 +102,7 @@ Provided technical support and managed library resources while assisting student
 </p>
 </details>
 
-
+<!--Section 4: engineering projects-->
 <details>
 <summary><strong style="font-size:1.5em;">MY ENGINEERING PROJECTS</strong></summary>
 
@@ -151,7 +151,7 @@ Designed and programmed an autonomous animatronic capable of detecting nearby us
 
 </details>
 
-
+<!--Section 5: Honors and Awards-->
 <details>
 <summary><strong style="font-size:1.5em;">HONORS &amp; AWARDS</strong></summary>
 
