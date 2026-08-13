@@ -14,7 +14,7 @@
 
 This project was completed as part of my **CATIA V5 coursework** at Embry-Riddle Aeronautical University. The assignment challenged me to take a simple desk lamp and modify its design to provide additional functionality while maintaining the overall purpose and usability of the original product.
 
-I redesigned the lamp base to integrate three additional features: a **rear pen holder, a phone cradle, and a storage drawer**, creating a more versatile desk accessory without changing the fundamental lighting function.
+I redesigned the lamp base to integrate three additional features: a **back pen holder, a phone cradle, and a storage drawer**, creating a more versatile desk accessory without changing the fundamental lighting function.
 
 ---
 
@@ -31,7 +31,7 @@ The main objectives of the redesign were:
 
 ---
 
-## 01 — DESIGN CONCEPT
+## 01/ DESIGN CONCEPT
 
 The project began with a simple desk lamp that provided lighting but offered limited functionality beyond illumination.
 
@@ -53,7 +53,7 @@ The goal was to add functionality while keeping the additional features integrat
 
 ---
 
-## 02 — CAD & DESIGN
+## 02/ CAD & DESIGN
 
 The redesigned lamp was modeled using **CATIA V5**, with the additional features incorporated into the lamp's base.
 
@@ -71,11 +71,11 @@ The CAD development focused on:
 <img src="desk-lamp-catia.png" width="850">
 </p>
 
-*CATIA V5 model of the redesigned multifunctional desk lamp.*
+*Rendering CATIA V5 model of the redesigned multifunctional desk lamp.*
 
 ---
 
-## 03 — ENGINEERING ANALYSIS
+## 03/ ENGINEERING ANALYSIS
 
 The design process required considering how each new feature would interact with the existing lamp structure and how the additional components could be integrated without interfering with the lamp's primary function.
 
@@ -101,7 +101,7 @@ CATIA V5 assembly modeling was used to bring the components together and verify 
 
 ---
 
-## 04 — FINAL DESIGN
+## 04/ FINAL DESIGN
 
 The final design transforms the original desk lamp into a multifunctional workspace accessory while maintaining its primary lighting purpose.
 
@@ -121,19 +121,6 @@ The final design transforms the original desk lamp into a multifunctional worksp
 
 ---
 
-## DESIGN COMPARISON
-
-| Feature | Original Design | Redesigned Version |
-|:---|:---|:---|
-| Lighting | ✓ | ✓ |
-| Pen Storage | — | ✓ |
-| Phone Storage | — | ✓ |
-| Drawer | — | ✓ |
-| Multifunctional Base | — | ✓ |
-
-The redesign maintains the original lamp's primary function while adding practical workspace features to increase its overall utility.
-
----
 
 ## TOOLS & SKILLS
 
@@ -141,12 +128,6 @@ The redesign maintains the original lamp's primary function while adding practic
 **Engineering:** Mechanical Design • Product Design • Assembly Modeling  
 **Design:** Functional Integration • Design Modification • Spatial Layout  
 **Other:** CAD Modeling • Design Iteration • Product Development
-
----
-
-## WHAT I LEARNED
-
-This project strengthened my ability to use **CATIA V5 to translate a design concept into a complete product assembly**. More importantly, it taught me to think beyond the primary function of a product and identify opportunities to integrate additional features while maintaining a cohesive and practical design.
 
 ---
 
