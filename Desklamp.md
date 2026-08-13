@@ -61,12 +61,6 @@ The CAD development focused on:
 - Integrating the new components into a cohesive assembly.
 - Checking the relationship between components within the assembly.
 
-<p align="center">
-<img src="desk-lamp-catia.png" width="850">
-</p>
-
-*Rendering CATIA V5 model of the redesigned multifunctional desk lamp.*
-
 ---
 
 ## 03/ ENGINEERING ANALYSIS
@@ -100,10 +94,11 @@ CATIA V5 assembly modeling was used to bring the components together and verify 
 The final design transforms the original desk lamp into a multifunctional workspace accessory while maintaining its primary lighting purpose.
 
 <p align="center">
-<img src="desk-lamp-after.png" width="850">
+<img src="desk-lamp-catia.png" width="850">
 </p>
 
-*Final multifunctional desk lamp design.*
+*Rendering CATIA V5 model of the redesigned multifunctional desk lamp.*
+
 
 ### Key Features
 
