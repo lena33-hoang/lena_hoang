@@ -1,136 +1,142 @@
-# PROJECT NAME
+# Mandrel Centering Guide
 
-*Project Type / Course | Date*
+*Medical Manufacturing Fixture | Engineering Design & Analysis*
 
 <p align="center">
-<img src="main-project-image.png" width="850">
+<img src="mandrel-manufactured.png" width="700">
 </p>
 
-> **One-sentence project summary:** Briefly explain what you designed and why.
+> **Redesign of a precision mandrel centering guide to improve alignment, reduce stress concentrations and surface wear, and increase component service life in a medical manufacturing environment.**
 
 ---
 
 ## PROJECT OVERVIEW
 
-2–3 sentences explaining the project context.
+The Mandrel Centering Guide is used in the **Form, Fill, and Seal (FFS) production room at B. Braun Medical's Daytona Beach, Florida facility**. The guide centers a mandrel during the welding and sealing process, where accurate positioning is critical to maintaining port alignment, seal integrity, and product quality. :contentReference[oaicite:0]{index=0}
 
-What course, design challenge, or real-world problem motivated the project?
+The existing component was identified as a recurring source of concern due to **cyclic fatigue, stress concentration, surface chipping, localized wear, and progressive mandrel misalignment**. The project focused on evaluating the component's material, geometry, loading conditions, and assembly interaction to develop practical design improvements. :contentReference[oaicite:1]{index=1}
 
 ---
-
 
 ## DESIGN OBJECTIVES
 
-The main objectives of the project were:
+The main objectives of the redesign were:
 
-- **Objective 1:** ...
-- **Objective 2:** ...
-- **Objective 3:** ...
-- **Objective 4:** ...
+- **Improve Durability:** Reduce stress concentrations and fatigue-related damage.
+- **Reduce Wear:** Address chipping and localized material loss at contact surfaces.
+- **Improve Alignment:** Reduce off-axis contact between the mandrel and guide.
+- **Extend Service Life:** Develop modifications that could reduce maintenance frequency.
+- **Maintain Manufacturability:** Improve the existing component without requiring a complete redesign of the surrounding assembly.
+- **Maintain Cleanroom Compatibility:** Select an appropriate material and surface treatment for the application.
 
 ---
 
-### 02 — CAD & Design
+## 01 — MATERIAL ANALYSIS & SELECTION
 
-Explain how you translated the concept into a CAD model.
+Material identification was an important part of the redesign because the initial documentation indicated that the component was **316 stainless steel**.
 
-**Software:** SolidWorks • CATIA V5 • AutoCAD
+Physical evaluation, hardness testing, mass measurement, visual inspection, SolidWorks mass-property analysis, and consultation with a subject matter expert indicated that the component was more consistent with **anodized aluminum, potentially 6061**. :contentReference[oaicite:2]{index=2}
 
-<p align="center">
-<img src="CAD-image.png" width="850">
-</p>
+The measured specimen mass was approximately **55.6 g**, while the SolidWorks model predicted approximately **57 g**, a difference of approximately **2.5%**. :contentReference[oaicite:3]{index=3}
 
-### 03 — Engineering Analysis
+Based on the material evaluation, **6061-T6 aluminum with an anodized finish** was selected for the redesigned component because it provided a practical balance of strength, machinability, weight, cost, and suitability for the application. :contentReference[oaicite:4]{index=4}
 
-Explain the engineering principles or calculations you used to evaluate the design.
+---
 
-Examples:
+## 02 — CAD & DESIGN
 
-- GD&T
-- Tolerance stack-up
-- Stress analysis
-- Motion analysis
-- Dimensional analysis
-- Mechanical calculations
-- Sensor calculations
+The redesigned component was modeled in **SolidWorks**, incorporating geometric changes intended to address the observed failure mechanisms.
 
-<p align="center">
-<img src="analysis-image.png" width="700">
-</p>
+The redesign focused on:
 
-### 04 — Manufacturing / Prototyping
-
-Explain how the design was manufactured or prototyped.
-
-**Processes:** CNC Machining • 3D Printing • Welding • Assembly
+- Increasing critical internal corner radii.
+- Adding chamfered transitions.
+- Refining the mandrel contact surfaces.
+- Maintaining the functional geometry of the existing component.
+- Producing a fully dimensioned engineering drawing.
 
 <p align="center">
-<img src="prototype-image.png" width="700">
+<img src="engineering-drawing.png" width="850">
 </p>
+
+*Fully dimensioned engineering drawing of the redesigned Mandrel Centering Guide.*
+
+---
+
+## 03 — ENGINEERING ANALYSIS
+
+The design modifications were developed around the primary failure mechanisms identified during the investigation.
+
+### Stress Concentration
+
+Increasing the internal fillet radii was proposed to reduce localized stress concentrations and distribute cyclic loading more gradually.
+
+### Contact Loading
+
+The centering surfaces showed evidence of chipping and localized material loss. Chamfered transitions and refined contact surfaces were proposed to create smoother engagement between the mandrel and guide. :contentReference[oaicite:5]{index=5}
+
+### Alignment
+
+Review of the mandrel's engagement with the guide indicated that off-axis contact could contribute to excessive localized loading. Precision shims were proposed to improve the seating position and distribute contact stresses more uniformly. :contentReference[oaicite:6]{index=6}
+
+### Surface Treatment
+
+A **Type III hard-coat anodize** was proposed to increase surface hardness and improve resistance to chipping and wear while retaining the lightweight aluminum construction. :contentReference[oaicite:7]{index=7}
+
+---
+
+## 04 — MANUFACTURING
+
+The redesigned component was developed with precision machining and the existing manufacturing environment in mind.
+
+The design changes were intentionally limited to modifications that could improve the component without requiring a complete redesign of the surrounding assembly.
+
+<p align="center">
+<img src="mandrel-manufactured.png" width="700">
+</p>
+
+*Manufactured Mandrel Centering Guide.*
 
 ---
 
 ## FINAL DESIGN
 
-Explain the final solution and how it addresses the original problem.
-
-<p align="center">
-<img src="final-design.png" width="850">
-</p>
+The final design combines **geometric optimization, material selection, surface treatment, and alignment improvements**.
 
 ### Key Features
 
-- **Feature 1:** Brief explanation
-- **Feature 2:** Brief explanation
-- **Feature 3:** Brief explanation
+- **Increased Corner Radii:** Reduce localized stress concentrations.
+- **Chamfered Edges:** Provide smoother mandrel engagement.
+- **Refined Contact Surfaces:** Address areas of observed wear and chipping.
+- **6061-T6 Aluminum:** Maintain a lightweight and machinable material.
+- **Hard-Coat Anodizing:** Improve surface hardness and wear resistance.
+- **Precision Shimming:** Improve mandrel seating and alignment.
+
+The proposed changes are intended to extend component service life, reduce maintenance frequency, and improve mandrel alignment consistency during production. :contentReference[oaicite:8]{index=8}
 
 ---
-
-## RESULTS
-
-Explain what you achieved.
-
-If you have measurable results, show them here:
-
-| Parameter | Requirement | Final Result |
-|:---|:---:|:---:|
-| Accuracy | — | — |
-| Dimension | — | — |
-| Tolerance | — | — |
-| Performance | — | — |
-
----
-
 
 ## TOOLS & SKILLS
 
-**CAD:** SolidWorks • CATIA V5 • AutoCAD  
-**Engineering:** GD&T • Tolerance Analysis • Mechanical Design  
-**Manufacturing:** CNC • Welding • Precision Assembly  
-**Other:** Arduino • Sensors • Prototyping
+**CAD:** SolidWorks  
+**Engineering:** Mechanical Design • GD&T • Tolerance Analysis • Material Selection  
+**Analysis:** Fatigue • Stress Concentration • Contact Loading • Geometric Analysis  
+**Manufacturing:** Precision Machining • Anodizing • Engineering Drawings  
+**Other:** Material Identification • Design Evaluation • Technical Documentation
 
 ---
 
-## PROJECT GALLERY
+## WHAT I LEARNED
 
-<p align="center">
-<img src="gallery-1.png" width="400">
-<img src="gallery-2.png" width="400">
-</p>
-
-<p align="center">
-<img src="gallery-3.png" width="400">
-<img src="gallery-4.png" width="400">
-</p>
+This project strengthened my ability to approach a manufacturing problem by connecting **physical inspection, material selection, engineering analysis, and CAD design**. It also taught me how to develop practical design modifications that address specific failure mechanisms while considering manufacturability and the existing assembly.
 
 ---
 
 <hr>
 
+<p align="center">
 
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-<a href="{{ '/' | relative_url }}">Back to Portfolio</a>
+<a href="{{ '/' | relative_url }}">← Back to Portfolio</a>
 
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
