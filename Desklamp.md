@@ -39,9 +39,9 @@ I approached the redesign by identifying common items that occupy workspace arou
 
 The redesigned base integrates:
 
-- **Pen Holder** — Provides a dedicated location for pens and small writing tools.
-- **Phone Cradle** — Creates a convenient location for a smartphone while working.
-- **Storage Drawer** — Provides enclosed storage for small desk accessories.
+- **Pen Holder**: Provides a dedicated location for pens and small writing tools.
+- **Phone Cradle**: Creates a convenient location for a smartphone while working.
+- **Storage Drawer**: Provides enclosed storage for small desk accessories.
 
 The goal was to add functionality while keeping the additional features integrated into the original lamp rather than creating separate accessories.
 
