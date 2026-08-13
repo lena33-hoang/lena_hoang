@@ -124,7 +124,7 @@ Designed and fabricated a precision fixture to improve mandrel alignment accurac
 <hr>
 
 <p>
-<strong>Multifunctional Desk Lamp - CATIA Final Project</strong>
+<strong>Multifunctional Desk Lamp - CATIA Project</strong>
 </p>
 
 <p>
@@ -138,7 +138,7 @@ Designed a manufacturable desk lamp assembly integrating a phone holder, storage
 <hr>
 
 <p>
-<strong>Halloween Animatronic — Embedded Systems Project</strong>
+<strong>Halloween Animatronic - Embedded Systems Project</strong>
 </p>
 
 <p>
