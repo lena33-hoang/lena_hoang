@@ -148,6 +148,7 @@ Designed and programmed an autonomous animatronic capable of detecting nearby us
 <p>
 <a href="{{ '/Halloween' | relative_url }}"><strong>View Project →</strong></a>
 </p>
+
 </details>
 
 <!--Section 5: Honors and Awards-->
