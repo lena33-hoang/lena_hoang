@@ -73,6 +73,7 @@ Review of the mandrel's engagement with the guide indicated that off-axis contac
 ### Surface Treatment
 
 A **Type III hard-coat anodize** was proposed to increase surface hardness and improve resistance to chipping and wear while retaining the lightweight aluminum construction. 
+
 ---
 
 ## 04/ MANUFACTURING
