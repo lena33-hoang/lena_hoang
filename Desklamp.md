@@ -1,11 +1,5 @@
 # Multifunctional Desk Lamp
 
-*CATIA V5 Coursework Project | Mechanical Design*
-
-<p align="center">
-<img src="desk-lamp-after.png" width="850">
-</p>
-
 > **Modified a conventional desk lamp into a multifunctional workspace accessory by integrating a pen holder, phone cradle, and storage drawer into the lamp base.**
 
 ---
