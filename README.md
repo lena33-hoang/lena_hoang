@@ -229,7 +229,7 @@ Awarded by the American Society of Mechanical Engineers for academic excellence 
     </tr>
     <tr> 
       <td>⬇️</td>
-      <td><a href="LENA_RESUME26.pdf"> target='_blank"> Download my Resume (PDF)</a></td>
+      <td><a href="LENA_RESUME2026.pdf"> Download my Resume (PDF)</a></td>
     </tr>
     <tr>
       <td>🌐</td>
