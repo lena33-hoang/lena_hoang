@@ -227,9 +227,9 @@ Awarded by the American Society of Mechanical Engineers for academic excellence 
       <td>📍</td>
       <td>Daytona Beach, FL</td>
     </tr>
-    <tr>
+    <tr> 
       <td>⬇️</td>
-      <td><a href="LENA_RESUME26.pdf">Download my Resume (PDF)</a></td>
+      <td><a href="LENA_RESUME26.pdf"> target='_blank"> Download my Resume (PDF)</a></td>
     </tr>
     <tr>
       <td>🌐</td>
