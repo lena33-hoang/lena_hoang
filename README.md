@@ -164,7 +164,7 @@ Awarded by the Society of Women in Engineering for outstanding academic achievem
 </p>
 
 <p>
-<a href="Deloitte Foundation SWE Scholarship.png" target="_blank">🏆 View Award Letter</a>
+<a href="Deloitte Foundation SWE Scholarship .png" target="_blank">🏆 View Award Letter</a>
 </p>
 
 <hr>
