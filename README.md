@@ -192,6 +192,17 @@ Awarded by the American Society of Mechanical Engineers.
 <hr>
 
 <p>
+🎓 <strong>For A Bright Future S.T.E.M. Scholarship</strong><br>
+Awarded by the National STEM Excellence Foundation for outstanding academic achievement and leadership.
+</p>
+
+<p>
+<a href="2026 For A Bright Future S.T.E.M. Scholarship.png" target="_blank">🏆 View Award Letter</a>
+</p>
+
+<hr>
+
+<p>
 🎓 <strong>Charles River Associate All-Access Scholarship</strong><br>
 Awarded by the Charles River Associate for 12 deserving students in the US and UK.
 </p>
