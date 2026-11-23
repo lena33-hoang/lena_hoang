@@ -159,6 +159,17 @@ Embry-Riddle Aeronautical University
 <hr>
 
 <p>
+🎓 <strong>Deloitte Foundation SWE Scholarship</strong><br>
+Awarded by the Society of Women in Engineering for outstanding academic achievement and leadership.
+</p>
+
+<p>
+<a href="Deloitte Foundation SWE Scholarship.png" target="_blank">🏆 View Award Letter</a>
+</p>
+
+<hr>
+
+<p>
 🎓 <strong>National STEM Excellence Scholarship</strong><br>
 Awarded by the National STEM Excellence Foundation for outstanding academic achievement and leadership.
 </p>
